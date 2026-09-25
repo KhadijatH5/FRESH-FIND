@@ -1,0 +1,340 @@
+.navbar-header {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  background-color: rgba(235, 245, 236, 0.95);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(216, 234, 219, 0.5);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.navbar-container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 12px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.brand-logo-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+  color: inherit;
+}
+
+.brand-logo-group:active {
+  transform: scale(0.95);
+}
+
+.leaf-glyph {
+  display: flex;
+  flex-direction: column;
+  gap: 3.5px;
+  justify-content: center;
+  align-items: flex-start;
+  transition: transform 0.3s ease;
+}
+
+.brand-logo-group:hover .leaf-glyph {
+  transform: rotate(6deg);
+}
+
+.glyph-line {
+  height: 2.5px;
+  background-color: #245D27;
+  border-radius: 9999px;
+  transition: width 0.3s ease, background-color 0.3s ease;
+}
+
+.glyph-line-1 {
+  width: 14px;
+}
+
+.glyph-line-2 {
+  width: 10px;
+}
+
+.glyph-line-3 {
+  width: 16px;
+}
+
+.brand-logo-group:hover .glyph-line-1 {
+  width: 16px;
+}
+
+.brand-logo-group:hover .glyph-line-2 {
+  width: 12px;
+}
+
+.brand-logo-group:hover .glyph-line-3 {
+  width: 18px;
+}
+
+.brand-title {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 24px;
+  font-weight: 700;
+  color: #245D27;
+  transition: opacity 0.3s ease;
+}
+
+.brand-logo-group:hover .brand-title {
+  opacity: 0.9;
+}
+
+.nav-floating-pill {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 5px 6px;
+  border-radius: 9999px;
+  border: 1px solid rgba(213, 229, 213, 0.8);
+  box-shadow: 0 2px 10px rgba(23, 33, 23, 0.04);
+  gap: 4px;
+}
+
+.nav-link-btn {
+  background: none;
+  border: none;
+  padding: 8px 18px;
+  border-radius: 9999px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #556957;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: all 0.2s ease;
+  text-decoration: none;
+}
+
+.nav-link-btn:hover {
+  color: #1E3A20;
+  background-color: #F2F7F2;
+}
+
+.nav-link-btn:active {
+  transform: scale(0.95);
+}
+
+.nav-link-btn.active {
+  background-color: #DCE7DC;
+  color: #1E3A20;
+  font-weight: 600;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+
+.basket-badge {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #245D27;
+  color: #ffffff;
+  font-size: 10px;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.basket-badge.bounce {
+  transform: scale(1.25);
+  background-color: #1C4A1F;
+}
+
+.navbar-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.audio-toggle-btn {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border: none;
+}
+
+.audio-toggle-btn.sound-on {
+  background-color: #DCE7DC;
+  color: #245D27;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+
+.audio-toggle-btn.sound-on:hover {
+  background-color: #D0E2D0;
+}
+
+.audio-toggle-btn.sound-off {
+  background-color: rgba(255, 255, 255, 0.6);
+  color: #708072;
+  border: 1px solid rgba(213, 229, 213, 0.6);
+}
+
+.audio-toggle-btn.sound-off:hover {
+  background-color: #ffffff;
+  color: #245D27;
+}
+
+.speaker-icon-pulse {
+  animation: subtlePulse 2s ease-in-out infinite;
+}
+
+@keyframes subtlePulse {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.1);
+    opacity: 0.85;
+  }
+}
+
+.login-link {
+  background: none;
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  color: #2C3E2E;
+  cursor: pointer;
+  padding: 8px 10px;
+  transition: color 0.2s ease;
+}
+
+.login-link:hover {
+  color: #245D27;
+}
+
+.btn-find-market {
+  background-color: #245D27;
+  color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 9999px;
+  font-size: 14px;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease;
+  text-decoration: none;
+}
+
+.btn-find-market:hover {
+  background-color: #1C4A1F;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(36, 93, 39, 0.2);
+}
+
+.btn-find-market:active {
+  transform: translateY(0) scale(0.95);
+}
+
+.avatar-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background-color: #245D27;
+  color: #ffffff;
+  border: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.avatar-btn:hover {
+  background-color: #1C4A1F;
+  transform: scale(1.05);
+}
+
+.avatar-btn:active {
+  transform: scale(0.95);
+}
+
+.mobile-toggle-btn {
+  display: none;
+  background: none;
+  border: none;
+  padding: 8px;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.mobile-toggle-btn:hover {
+  background-color: rgba(220, 231, 220, 0.6);
+}
+
+.mobile-toggle-btn:active {
+  transform: scale(0.92);
+}
+
+.mobile-drawer {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 16px;
+  right: 16px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  padding: 16px;
+  box-shadow: 0 12px 32px rgba(23, 33, 23, 0.12);
+  border: 1px solid rgba(213, 229, 213, 0.8);
+  animation: slideDown 0.25s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.mobile-drawer-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.mobile-drawer .nav-link-btn {
+  width: 100%;
+  justify-content: flex-start;
+}
+
+.mobile-drawer .nav-link-btn:active {
+  transform: scale(0.98);
+}
+
+@media (max-width: 960px) {
+  .mobile-toggle-btn {
+    display: inline-flex;
+  }
+
+  .nav-floating-pill {
+    display: none;
+  }
+
+  .mobile-drawer.open {
+    display: block;
+  }
+}

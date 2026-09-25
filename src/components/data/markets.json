@@ -1,0 +1,3481 @@
+{
+  "dataset": "FreshFind Nigeria Markets",
+  "version": "1.0.0",
+  "generatedAt": "2026-09-24",
+  "country": "Nigeria",
+  "defaultTimezone": "Africa/Lagos",
+  "marketCount": 72,
+  "stateCount": 36,
+  "states": [
+    "Abia",
+    "Adamawa",
+    "Akwa Ibom",
+    "Anambra",
+    "Bauchi",
+    "Bayelsa",
+    "Benue",
+    "Borno",
+    "Cross River",
+    "Delta",
+    "Ebonyi",
+    "Edo",
+    "Ekiti",
+    "Enugu",
+    "Gombe",
+    "Imo",
+    "Jigawa",
+    "Kaduna",
+    "Kano",
+    "Katsina",
+    "Kebbi",
+    "Kogi",
+    "Kwara",
+    "Lagos",
+    "Nasarawa",
+    "Niger",
+    "Ogun",
+    "Ondo",
+    "Osun",
+    "Oyo",
+    "Plateau",
+    "Rivers",
+    "Sokoto",
+    "Taraba",
+    "Yobe",
+    "Zamfara"
+  ],
+  "markets": [
+    {
+      "id": "NG-AB-001",
+      "marketName": "Ariaria International Market",
+      "area": "Ariaria, Aba",
+      "state": "Abia",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 5.115333,
+        "longitude": 7.335639,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "operatingHours": {
+        "opening": "06:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major Aba commercial market famous for large-scale trading, manufacturing, shoes, leather goods and locally produced merchandise.",
+      "thumbnailImages": [
+        "images/markets/ariaria-1.jpg",
+        "images/markets/ariaria-2.jpg",
+        "images/markets/ariaria-3.jpg"
+      ],
+      "produce": [
+        "Foodstuffs",
+        "Vegetables",
+        "Fruits",
+        "Yam",
+        "Cassava products",
+        "Rice",
+        "Beans",
+        "Pepper"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 450,
+      "growerCountAccuracy": null,
+      "dataNotes": "Public sources identify Ariaria as a major Aba market; published hours list Monday-Saturday 06:00-18:00."
+    },
+    {
+      "id": "NG-AB-002",
+      "marketName": "Cemetery Market (Eziukwu Market)",
+      "area": "Cemetery, Aba",
+      "state": "Abia",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 5.1168,
+        "longitude": 7.368,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "operatingHours": {
+        "opening": "07:30",
+        "closing": "17:30",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A busy Aba food and general market serving shoppers with fresh foods, provisions and agricultural products.",
+      "thumbnailImages": [
+        "images/markets/eziukwu-1.jpg",
+        "images/markets/eziukwu-2.jpg",
+        "images/markets/eziukwu-3.jpg"
+      ],
+      "produce": [
+        "Vegetables",
+        "Tomatoes",
+        "Pepper",
+        "Onions",
+        "Yam",
+        "Cassava",
+        "Rice",
+        "Beans"
+      ],
+      "rating": 3.9,
+      "ratingSource": null,
+      "numberOfGrowers": 300,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-AD-001",
+      "marketName": "Jimeta Ultra Modern Market",
+      "area": "Jimeta, Yola North",
+      "state": "Adamawa",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 9.272361,
+        "longitude": 12.437664,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:30",
+        "closing": "17:30",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A large Yola-area market supplying groceries, farm products, clothing, fabrics and other everyday goods.",
+      "thumbnailImages": [
+        "images/markets/jimeta-modern-1.jpg",
+        "images/markets/jimeta-modern-2.jpg",
+        "images/markets/jimeta-modern-3.jpg"
+      ],
+      "produce": [
+        "Rice",
+        "Beans",
+        "Maize",
+        "Millet",
+        "Sorghum",
+        "Tomatoes",
+        "Onions",
+        "Vegetables"
+      ],
+      "rating": 3.9,
+      "ratingSource": null,
+      "numberOfGrowers": 420,
+      "growerCountAccuracy": null,
+      "dataNotes": "Market coordinates are supported by Wikidata/government mapping; public listings give daily 08:30-17:30 hours."
+    },
+    {
+      "id": "NG-AD-002",
+      "marketName": "Modibbo Adama Modern Market",
+      "area": "Yola",
+      "state": "Adamawa",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 9.255,
+        "longitude": 12.46,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "The newly reconstructed Yola market, commissioned in July 2026 to provide a safer and more structured trading environment.",
+      "thumbnailImages": [
+        "images/markets/modibbo-adama-1.jpg",
+        "images/markets/modibbo-adama-2.jpg",
+        "images/markets/modibbo-adama-3.jpg"
+      ],
+      "produce": [
+        "Rice",
+        "Beans",
+        "Maize",
+        "Millet",
+        "Sorghum",
+        "Yam",
+        "Vegetables",
+        "Fruits"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 380,
+      "growerCountAccuracy": null,
+      "dataNotes": "The Adamawa State Government states that the reconstructed market replaced the old Yola Market and was commissioned on July 14, 2026."
+    },
+    {
+      "id": "NG-AK-002",
+      "marketName": "Akpan Andem Market",
+      "area": "Uyo",
+      "state": "Akwa Ibom",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 5.026836,
+        "longitude": 7.931686,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "operatingHours": {
+        "opening": "07:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A central Uyo market serving residents with fresh food, vegetables, household goods and locally traded produce.",
+      "thumbnailImages": [
+        "images/markets/akpan-andem-1.jpg",
+        "images/markets/akpan-andem-2.jpg",
+        "images/markets/akpan-andem-3.jpg"
+      ],
+      "produce": [
+        "Vegetables",
+        "Tomatoes",
+        "Pepper",
+        "Onions",
+        "Plantain",
+        "Yam",
+        "Cassava",
+        "Fish"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 300,
+      "growerCountAccuracy": null,
+      "dataNotes": "The market location is documented in Uyo infrastructure and environmental research."
+    },
+    {
+      "id": "NG-AK-001",
+      "marketName": "Itam Market",
+      "area": "Itam, Uyo",
+      "state": "Akwa Ibom",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 5.046369,
+        "longitude": 7.8979,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "06:00",
+        "closing": "18:30",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major Uyo-area market with extensive trade in fresh food, farm produce and everyday commodities.",
+      "thumbnailImages": [
+        "images/markets/itam-1.jpg",
+        "images/markets/itam-2.jpg",
+        "images/markets/itam-3.jpg"
+      ],
+      "produce": [
+        "Vegetables",
+        "Plantain",
+        "Banana",
+        "Yam",
+        "Cassava",
+        "Tomatoes",
+        "Pepper",
+        "Fruits",
+        "Fish"
+      ],
+      "rating": 3.9,
+      "ratingSource": null,
+      "numberOfGrowers": 500,
+      "growerCountAccuracy": null,
+      "dataNotes": "Coordinates are supported by Uyo infrastructure mapping and Wikidata; current business listing gives daily hours with Sunday closing earlier."
+    },
+    {
+      "id": "NG-AN-002",
+      "marketName": "Ochanja Market",
+      "area": "Iweka Road, City Centre, Onitsha",
+      "state": "Anambra",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 6.1378,
+        "longitude": 6.781,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "operatingHours": {
+        "opening": "07:30",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A large Onitsha trading market with strong activity in food, consumer goods and locally supplied produce.",
+      "thumbnailImages": [
+        "images/markets/ochanja-1.jpg",
+        "images/markets/ochanja-2.jpg",
+        "images/markets/ochanja-3.jpg"
+      ],
+      "produce": [
+        "Rice",
+        "Beans",
+        "Yam",
+        "Garri",
+        "Tomatoes",
+        "Pepper",
+        "Onions",
+        "Vegetables"
+      ],
+      "rating": 4.1,
+      "ratingSource": null,
+      "numberOfGrowers": 420,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-AN-001",
+      "marketName": "Onitsha Main Market",
+      "area": "Main Market, Onitsha",
+      "state": "Anambra",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 6.15222,
+        "longitude": 6.775,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "operatingHours": {
+        "opening": "07:30",
+        "closing": "17:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "One of Nigeria's largest commercial markets, with extensive trading activity and a major role in Onitsha's economy.",
+      "thumbnailImages": [
+        "images/markets/onitsha-main-1.jpg",
+        "images/markets/onitsha-main-2.jpg",
+        "images/markets/onitsha-main-3.jpg"
+      ],
+      "produce": [
+        "Rice",
+        "Beans",
+        "Yam",
+        "Garri",
+        "Tomatoes",
+        "Pepper",
+        "Onions",
+        "Vegetables",
+        "Fruits"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 600,
+      "growerCountAccuracy": null,
+      "dataNotes": "Public sources list Monday-Saturday 07:30-17:00; Sunday closed."
+    },
+    {
+      "id": "NG-BAU-002",
+      "marketName": "Muda Lawal Market",
+      "area": "Kasuwar Waya, Bauchi",
+      "state": "Bauchi",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 10.319,
+        "longitude": 9.838,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "06:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major Bauchi foodstuff market known for vegetables, yams, onions, tomatoes, grains and other fresh farm products.",
+      "thumbnailImages": [
+        "images/markets/muda-lawal-1.jpg",
+        "images/markets/muda-lawal-2.jpg",
+        "images/markets/muda-lawal-3.jpg"
+      ],
+      "produce": [
+        "Vegetables",
+        "Yam",
+        "Onions",
+        "Tomatoes",
+        "Rice",
+        "Beans",
+        "Maize",
+        "Grains"
+      ],
+      "rating": 3.9,
+      "ratingSource": null,
+      "numberOfGrowers": 500,
+      "growerCountAccuracy": null,
+      "dataNotes": "Public listings give daily 06:00-18:00 hours and a 3.9 rating; research identifies Muda Lawal as one of the major Bauchi markets."
+    },
+    {
+      "id": "NG-BAU-001",
+      "marketName": "Wunti Market",
+      "area": "Wunti Street, Bauchi",
+      "state": "Bauchi",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 10.3157,
+        "longitude": 9.842,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "00:00",
+        "closing": "23:59",
+        "closesNextDay": true,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major Bauchi city market with foodstuffs, groceries, textiles and a wide range of everyday goods.",
+      "thumbnailImages": [
+        "images/markets/wunti-1.jpg",
+        "images/markets/wunti-2.jpg",
+        "images/markets/wunti-3.jpg"
+      ],
+      "produce": [
+        "Tomatoes",
+        "Onions",
+        "Pepper",
+        "Yam",
+        "Rice",
+        "Beans",
+        "Vegetables",
+        "Grains"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 350,
+      "growerCountAccuracy": null,
+      "dataNotes": "One public directory lists Wunti as open 24 hours daily; another guide describes it as open daily from early morning to late evening. Use 24-hour status cautiously."
+    },
+    {
+      "id": "NG-BAY-002",
+      "marketName": "Opolo Market",
+      "area": "Opolo, Yenagoa",
+      "state": "Bayelsa",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 4.94913,
+        "longitude": 6.33567,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "operatingHours": {
+        "opening": "08:30",
+        "closing": "17:30",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A community market in Opolo offering fresh food, agricultural products and daily essentials.",
+      "thumbnailImages": [
+        "images/markets/opolo-1.jpg",
+        "images/markets/opolo-2.jpg",
+        "images/markets/opolo-3.jpg"
+      ],
+      "produce": [
+        "Vegetables",
+        "Fruits",
+        "Fish",
+        "Plantain",
+        "Cassava",
+        "Yam",
+        "Tomatoes",
+        "Pepper"
+      ],
+      "rating": 5,
+      "ratingSource": null,
+      "numberOfGrowers": 220,
+      "growerCountAccuracy": null,
+      "dataNotes": "The Yenagoa Local Government Council lists Opolo among Yenagoa's markets; map data gives the market coordinates and a current business listing gives weekday hours."
+    },
+    {
+      "id": "NG-BAY-001",
+      "marketName": "Swali Market",
+      "area": "Swali, Yenagoa",
+      "state": "Bayelsa",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 4.91667,
+        "longitude": 6.28333,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "operatingHours": {
+        "opening": "07:30",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "Yenagoa's largest and most popular market, supplying fresh produce, seafood, household items and everyday goods.",
+      "thumbnailImages": [
+        "images/markets/swali-1.jpg",
+        "images/markets/swali-2.jpg",
+        "images/markets/swali-3.jpg"
+      ],
+      "produce": [
+        "Fish",
+        "Seafood",
+        "Plantain",
+        "Cassava",
+        "Yam",
+        "Vegetables",
+        "Fruits",
+        "Pepper",
+        "Tomatoes"
+      ],
+      "rating": 3.6,
+      "ratingSource": null,
+      "numberOfGrowers": 450,
+      "growerCountAccuracy": null,
+      "dataNotes": "The Yenagoa Local Government Council identifies Swali as the largest and most popular market in Yenagoa. A public directory lists Monday-Saturday 07:30-18:00 and Sunday closed."
+    },
+    {
+      "id": "NG-BEN-002",
+      "marketName": "Otukpo Main Market",
+      "area": "Otukpo",
+      "state": "Benue",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 7.19,
+        "longitude": 8.13,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A central Otukpo market supporting local trade in foodstuffs and agricultural products.",
+      "thumbnailImages": [
+        "images/markets/otukpo-main-market-1.jpg",
+        "images/markets/otukpo-main-market-2.jpg",
+        "images/markets/otukpo-main-market-3.jpg"
+      ],
+      "produce": [
+        "Yam",
+        "Cassava",
+        "Garri",
+        "Rice",
+        "Beans",
+        "Tomatoes",
+        "Pepper",
+        "Vegetables"
+      ],
+      "rating": 3.7,
+      "ratingSource": null,
+      "numberOfGrowers": 260,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-BEN-001",
+      "marketName": "Wurukum Market",
+      "area": "Wurukum, Makurdi",
+      "state": "Benue",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 7.724753,
+        "longitude": 8.552929,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "00:00",
+        "closing": "23:59",
+        "closesNextDay": true,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major Makurdi market serving Wurukum and surrounding communities with food and farm produce.",
+      "thumbnailImages": [
+        "images/markets/wurukum-market-1.jpg",
+        "images/markets/wurukum-market-2.jpg",
+        "images/markets/wurukum-market-3.jpg"
+      ],
+      "produce": [
+        "Yam",
+        "Cassava",
+        "Rice",
+        "Beans",
+        "Tomatoes",
+        "Pepper",
+        "Leafy vegetables",
+        "Fruits"
+      ],
+      "rating": 4.1,
+      "ratingSource": null,
+      "numberOfGrowers": 350,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-BOR-002",
+      "marketName": "Baga Road Market",
+      "area": "Bolori I, Maiduguri",
+      "state": "Borno",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 11.87031,
+        "longitude": 13.12414,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "07:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A Maiduguri market along Baga Road with food trading and locally sourced agricultural products.",
+      "thumbnailImages": [
+        "images/markets/baga-road-market-1.jpg",
+        "images/markets/baga-road-market-2.jpg",
+        "images/markets/baga-road-market-3.jpg"
+      ],
+      "produce": [
+        "Onions",
+        "Tomatoes",
+        "Pepper",
+        "Rice",
+        "Beans",
+        "Millet",
+        "Sorghum",
+        "Vegetables"
+      ],
+      "rating": 4.1,
+      "ratingSource": null,
+      "numberOfGrowers": 310,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-BOR-001",
+      "marketName": "Maiduguri Monday Market",
+      "area": "Hausari, Maiduguri",
+      "state": "Borno",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 11.83638,
+        "longitude": 13.15351,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "17:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major Maiduguri marketplace serving shoppers with foodstuffs, farm produce and household goods.",
+      "thumbnailImages": [
+        "images/markets/maiduguri-monday-market-1.jpg",
+        "images/markets/maiduguri-monday-market-2.jpg",
+        "images/markets/maiduguri-monday-market-3.jpg"
+      ],
+      "produce": [
+        "Rice",
+        "Beans",
+        "Millet",
+        "Sorghum",
+        "Onions",
+        "Tomatoes",
+        "Pepper",
+        "Vegetables"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 430,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-CRS-002",
+      "marketName": "Marian Market",
+      "area": "Leopad Town, Calabar",
+      "state": "Cross River",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 4.977,
+        "longitude": 8.353,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "07:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A Calabar market serving nearby communities with foodstuffs, vegetables and locally traded goods.",
+      "thumbnailImages": [
+        "images/markets/marian-market-1.jpg",
+        "images/markets/marian-market-2.jpg",
+        "images/markets/marian-market-3.jpg"
+      ],
+      "produce": [
+        "Plantain",
+        "Cassava",
+        "Yam",
+        "Vegetables",
+        "Pepper",
+        "Tomatoes",
+        "Fruits",
+        "Fish"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 240,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-CRS-001",
+      "marketName": "Watt Market",
+      "area": "Calabar",
+      "state": "Cross River",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 4.9757,
+        "longitude": 8.3417,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "07:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A well-known Calabar market supplying residents with fresh food, produce and everyday goods.",
+      "thumbnailImages": [
+        "images/markets/watt-market-1.jpg",
+        "images/markets/watt-market-2.jpg",
+        "images/markets/watt-market-3.jpg"
+      ],
+      "produce": [
+        "Plantain",
+        "Banana",
+        "Vegetables",
+        "Pepper",
+        "Tomatoes",
+        "Yam",
+        "Cassava",
+        "Fruits"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 300,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-DEL-001",
+      "marketName": "Ogbe-Ogonogo Modern Market",
+      "area": "Nnebisi Road, Asaba",
+      "state": "Delta",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 6.201557,
+        "longitude": 6.733776,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "One of Asaba's major markets, where farmers and traders sell farm produce and food items throughout the week.",
+      "thumbnailImages": [
+        "images/markets/ogbe-ogonogo-1.jpg",
+        "images/markets/ogbe-ogonogo-2.jpg",
+        "images/markets/ogbe-ogonogo-3.jpg"
+      ],
+      "produce": [
+        "Yam",
+        "Cassava",
+        "Plantain",
+        "Tomatoes",
+        "Pepper",
+        "Vegetables",
+        "Rice",
+        "Beans"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 420,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-DEL-002",
+      "marketName": "Ogbeogonogo Market",
+      "area": "Cable Point, Asaba",
+      "state": "Delta",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 6.202,
+        "longitude": 6.735,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "An Asaba market area with daily food trading and strong activity around locally produced farm goods.",
+      "thumbnailImages": [
+        "images/markets/ogbeogonogo-cable-point-1.jpg",
+        "images/markets/ogbeogonogo-cable-point-2.jpg",
+        "images/markets/ogbeogonogo-cable-point-3.jpg"
+      ],
+      "produce": [
+        "Yam",
+        "Plantain",
+        "Cassava",
+        "Tomatoes",
+        "Pepper",
+        "Vegetables",
+        "Rice",
+        "Beans"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 280,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-EBY-002",
+      "marketName": "Eke Aba Market",
+      "area": "Azuiyi Udene, Abakaliki",
+      "state": "Ebonyi",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 6.3168,
+        "longitude": 8.127,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "operatingHours": {
+        "opening": "06:00",
+        "closing": "19:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A busy Abakaliki market with foodstuffs and agricultural produce from the surrounding area.",
+      "thumbnailImages": [
+        "images/markets/eke-aba-1.jpg",
+        "images/markets/eke-aba-2.jpg",
+        "images/markets/eke-aba-3.jpg"
+      ],
+      "produce": [
+        "Rice",
+        "Yam",
+        "Cassava",
+        "Beans",
+        "Garri",
+        "Tomatoes",
+        "Pepper",
+        "Vegetables"
+      ],
+      "rating": 3.7,
+      "ratingSource": null,
+      "numberOfGrowers": 300,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-EBY-001",
+      "marketName": "New Kpiri Kpiri Market",
+      "area": "Kpiri Kpiri, Abakaliki",
+      "state": "Ebonyi",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 6.319,
+        "longitude": 8.114,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "operatingHours": {
+        "opening": "07:00",
+        "closing": "18:30",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major Abakaliki produce market with strong activity in food and agricultural products.",
+      "thumbnailImages": [
+        "images/markets/new-kpiri-kpiri-1.jpg",
+        "images/markets/new-kpiri-kpiri-2.jpg",
+        "images/markets/new-kpiri-kpiri-3.jpg"
+      ],
+      "produce": [
+        "Rice",
+        "Yam",
+        "Cassava",
+        "Garri",
+        "Beans",
+        "Tomatoes",
+        "Pepper",
+        "Vegetables"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 340,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-EDO-002",
+      "marketName": "New Benin Market",
+      "area": "New Lagos Road, Benin City",
+      "state": "Edo",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 6.3506,
+        "longitude": 5.6272,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major Benin City market with fresh food, farm produce and other everyday goods.",
+      "thumbnailImages": [
+        "images/markets/new-benin-market-1.jpg",
+        "images/markets/new-benin-market-2.jpg",
+        "images/markets/new-benin-market-3.jpg"
+      ],
+      "produce": [
+        "Tomatoes",
+        "Pepper",
+        "Onions",
+        "Okra",
+        "Vegetables",
+        "Yam",
+        "Plantain",
+        "Fruits"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 330,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-EDO-001",
+      "marketName": "Oba Market",
+      "area": "Oredo, Benin City",
+      "state": "Edo",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 6.33477,
+        "longitude": 5.61975,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "00:00",
+        "closing": "23:59",
+        "closesNextDay": true,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A historic Benin City market with sections for foodstuffs, fresh foods and locally traded goods.",
+      "thumbnailImages": [
+        "images/markets/oba-market-benin-1.jpg",
+        "images/markets/oba-market-benin-2.jpg",
+        "images/markets/oba-market-benin-3.jpg"
+      ],
+      "produce": [
+        "Tomatoes",
+        "Pepper",
+        "Okra",
+        "Crayfish",
+        "Vegetables",
+        "Yam",
+        "Plantain",
+        "Cassava"
+      ],
+      "rating": 3.9,
+      "ratingSource": null,
+      "numberOfGrowers": 390,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-EKT-002",
+      "marketName": "Atikankan Market",
+      "area": "Atikankan, Ado-Ekiti",
+      "state": "Ekiti",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 7.623,
+        "longitude": 5.151,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "operatingHours": {
+        "opening": "07:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A well-known Ado-Ekiti trading area historically associated with local commerce and market activity.",
+      "thumbnailImages": [
+        "images/markets/atikankan-market-1.jpg",
+        "images/markets/atikankan-market-2.jpg",
+        "images/markets/atikankan-market-3.jpg"
+      ],
+      "produce": [
+        "Yam",
+        "Cassava",
+        "Plantain",
+        "Tomatoes",
+        "Pepper",
+        "Vegetables",
+        "Grains",
+        "Foodstuff"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 180,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-EKT-001",
+      "marketName": "Oja Oba Market",
+      "area": "54 Market Road, Ado-Ekiti",
+      "state": "Ekiti",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 7.621686,
+        "longitude": 5.223291,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:30",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A vibrant Ado-Ekiti market known for local food, spices, produce, textiles and everyday shopping.",
+      "thumbnailImages": [
+        "images/markets/oja-oba-ado-ekiti-1.jpg",
+        "images/markets/oja-oba-ado-ekiti-2.jpg",
+        "images/markets/oja-oba-ado-ekiti-3.jpg"
+      ],
+      "produce": [
+        "Yam",
+        "Cassava",
+        "Garri",
+        "Rice",
+        "Beans",
+        "Tomatoes",
+        "Pepper",
+        "Vegetables"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 210,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-EN-002",
+      "marketName": "New Market (Aria Market)",
+      "area": "Coal Camp/Aria, Enugu North, Enugu",
+      "state": "Enugu",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 6.45192,
+        "longitude": 7.48034,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A busy Enugu food and household market known for grains, garri, vegetables, fruits and local ingredients.",
+      "thumbnailImages": [
+        "images/markets/enugu/new-market-1.jpg",
+        "images/markets/enugu/new-market-2.jpg",
+        "images/markets/enugu/new-market-3.jpg"
+      ],
+      "produce": [
+        "garri",
+        "grains",
+        "tomatoes",
+        "pepper",
+        "onions",
+        "vegetables",
+        "fruits",
+        "local condiments",
+        "yam"
+      ],
+      "rating": 4,
+      "ratingSource": "project listing estimate",
+      "numberOfGrowers": 250,
+      "growerCountAccuracy": "project estimate; not an official grower census",
+      "dataNotes": "Market location is supported by OpenStreetMap/Mapcarta; produce description is supported by a 2026 local guide. Hours, rating and grower count are project estimates."
+    },
+    {
+      "id": "NG-EN-001",
+      "marketName": "Ogbete Main Market",
+      "area": "Enugu North, Enugu",
+      "state": "Enugu",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 6.43545,
+        "longitude": 7.48157,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major Enugu trading centre with food, grains, vegetables, fruits and many everyday goods.",
+      "thumbnailImages": [
+        "images/markets/enugu/ogbete-1.jpg",
+        "images/markets/enugu/ogbete-2.jpg",
+        "images/markets/enugu/ogbete-3.jpg"
+      ],
+      "produce": [
+        "garri",
+        "grains",
+        "tomatoes",
+        "pepper",
+        "onions",
+        "leafy vegetables",
+        "fruits",
+        "yam",
+        "plantain"
+      ],
+      "rating": 3.9,
+      "ratingSource": "Google business listing",
+      "numberOfGrowers": 350,
+      "growerCountAccuracy": "project estimate; not an official grower census",
+      "dataNotes": "Market identity, location and rating supported by public listings; hours and grower count are project estimates. Ogbete is documented as one of Enugu's main urban markets."
+    },
+    {
+      "id": "NG-GO-001",
+      "marketName": "Gombe Main Market",
+      "area": "Herwa Gana Road, Gombe",
+      "state": "Gombe",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 10.28969,
+        "longitude": 11.16712,
+        "accuracy": "city-market approximate"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "06:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "Gombe's central trading hub serving shoppers with food items, grains, vegetables and everyday market goods.",
+      "thumbnailImages": [
+        "images/markets/gombe/gombe-main-1.jpg",
+        "images/markets/gombe/gombe-main-2.jpg",
+        "images/markets/gombe/gombe-main-3.jpg"
+      ],
+      "produce": [
+        "grains",
+        "tomatoes",
+        "pepper",
+        "onions",
+        "vegetables",
+        "yam",
+        "beans",
+        "groundnuts"
+      ],
+      "rating": 4,
+      "ratingSource": "Google business listing",
+      "numberOfGrowers": 300,
+      "growerCountAccuracy": "project estimate; not an official grower census",
+      "dataNotes": "Hours and rating are from a current business listing. Coordinates are approximate for the market area; grower count is a project estimate."
+    },
+    {
+      "id": "NG-GO-002",
+      "marketName": "Tashan Bus Market",
+      "area": "Gombe",
+      "state": "Gombe",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 10.2885,
+        "longitude": 11.1705,
+        "accuracy": "approximate"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "06:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A busy neighbourhood market where shoppers can find food staples, fresh produce and everyday goods.",
+      "thumbnailImages": [
+        "images/markets/gombe/tashan-bus-1.jpg",
+        "images/markets/gombe/tashan-bus-2.jpg",
+        "images/markets/gombe/tashan-bus-3.jpg"
+      ],
+      "produce": [
+        "grains",
+        "beans",
+        "tomatoes",
+        "pepper",
+        "onions",
+        "vegetables",
+        "groundnuts"
+      ],
+      "rating": 3.8,
+      "ratingSource": "Google business listing",
+      "numberOfGrowers": 160,
+      "growerCountAccuracy": "project estimate; not an official grower census",
+      "dataNotes": "Hours and rating are from a current business listing. Coordinates and grower count are approximate/project estimates."
+    },
+    {
+      "id": "NG-IM-002",
+      "marketName": "Eke Ukwu Owerri Market",
+      "area": "Owerri, Imo",
+      "state": "Imo",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 5.482,
+        "longitude": 7.033,
+        "accuracy": "Owerri market-area approximate"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "07:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A long-established Owerri market serving shoppers and traders with foodstuffs, farm produce and household goods.",
+      "thumbnailImages": [
+        "images/markets/imo/eke-ukwu-1.jpg",
+        "images/markets/imo/eke-ukwu-2.jpg",
+        "images/markets/imo/eke-ukwu-3.jpg"
+      ],
+      "produce": [
+        "yam",
+        "cassava",
+        "plantain",
+        "vegetables",
+        "tomatoes",
+        "pepper",
+        "onions",
+        "fruits",
+        "grains"
+      ],
+      "rating": 4.5,
+      "ratingSource": "Google business listing",
+      "numberOfGrowers": 280,
+      "growerCountAccuracy": "project estimate; not an official grower census",
+      "dataNotes": "Eke-Ukwu Owerri is identified in published research as one of the major urban markets in Owerri. Rating comes from a public business listing; coordinates, hours and grower count are approximate/project values."
+    },
+    {
+      "id": "NG-IM-001",
+      "marketName": "Relief Market",
+      "area": "Egbu Road, Owerri",
+      "state": "Imo",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 5.480578,
+        "longitude": 7.046819,
+        "accuracy": "market-study GPS coordinate"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "07:00",
+        "closing": "18:30",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major Owerri urban market with fresh foods, vegetables, grains, fruits and everyday household supplies.",
+      "thumbnailImages": [
+        "images/markets/imo/relief-1.jpg",
+        "images/markets/imo/relief-2.jpg",
+        "images/markets/imo/relief-3.jpg"
+      ],
+      "produce": [
+        "vegetables",
+        "tomatoes",
+        "pepper",
+        "onions",
+        "yam",
+        "plantain",
+        "fruits",
+        "grains",
+        "fish"
+      ],
+      "rating": 4,
+      "ratingSource": "Google business listing",
+      "numberOfGrowers": 300,
+      "growerCountAccuracy": "project estimate; not an official grower census",
+      "dataNotes": "Market coordinates are supported by a published Owerri market study; current rating/hours are from a business listing. Grower count is a project estimate."
+    },
+    {
+      "id": "NG-JI-001",
+      "marketName": "Dutse Ultra Modern Market",
+      "area": "Ibrahim Aliyu Way Bypass, Dutse",
+      "state": "Jigawa",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 11.756,
+        "longitude": 9.338,
+        "accuracy": "Dutse market-area approximate"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "06:00",
+        "closing": "21:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "Dutse's modern trading centre for foodstuffs, farm produce and general shopping.",
+      "thumbnailImages": [
+        "images/markets/jigawa/dutse-ultra-1.jpg",
+        "images/markets/jigawa/dutse-ultra-2.jpg",
+        "images/markets/jigawa/dutse-ultra-3.jpg"
+      ],
+      "produce": [
+        "rice",
+        "millet",
+        "sorghum",
+        "beans",
+        "groundnuts",
+        "onions",
+        "tomatoes",
+        "vegetables"
+      ],
+      "rating": 3.7,
+      "ratingSource": "Google business listing",
+      "numberOfGrowers": 220,
+      "growerCountAccuracy": "project estimate; not an official grower census",
+      "dataNotes": "Current hours and rating are supported by a public business listing. Coordinates and grower count are project estimates."
+    },
+    {
+      "id": "NG-JI-002",
+      "marketName": "Hadejia Fish Market",
+      "area": "Hadejia, Jigawa",
+      "state": "Jigawa",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 12.4506,
+        "longitude": 10.0404,
+        "accuracy": "Hadejia town coordinate; market-area approximate"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "07:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A fresh-food market particularly known for fresh fish and other food supplies in Hadejia.",
+      "thumbnailImages": [
+        "images/markets/jigawa/hadejia-fish-1.jpg",
+        "images/markets/jigawa/hadejia-fish-2.jpg",
+        "images/markets/jigawa/hadejia-fish-3.jpg"
+      ],
+      "produce": [
+        "fresh fish",
+        "smoked fish",
+        "seafood",
+        "vegetables",
+        "spices",
+        "grains"
+      ],
+      "rating": 4.3,
+      "ratingSource": "Google business listing",
+      "numberOfGrowers": 140,
+      "growerCountAccuracy": "project estimate; not an official grower census",
+      "dataNotes": "Market identity and fish focus are supported by public listings and local-government information. Coordinate is Hadejia town coordinate rather than a verified market entrance; grower count is a project estimate."
+    },
+    {
+      "id": "NG-KAD-001",
+      "marketName": "Abubakar Mahmud Gumi Market",
+      "area": "Central Area, Kaduna",
+      "state": "Kaduna",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 10.518553,
+        "longitude": 7.427611,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "Kaduna Central Market, a major commercial hub with extensive trade in foodstuffs and farm produce.",
+      "thumbnailImages": [
+        "images/markets/abu-bakar-gumi-1.jpg",
+        "images/markets/abu-bakar-gumi-2.jpg",
+        "images/markets/abu-bakar-gumi-3.jpg"
+      ],
+      "produce": [
+        "Tomatoes",
+        "Onions",
+        "Pepper",
+        "Vegetables",
+        "Rice",
+        "Beans",
+        "Yam",
+        "Millet"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 500,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-KAD-002",
+      "marketName": "Bakin Dogo Market",
+      "area": "Sabon Gari, Tudun Wada, Kaduna",
+      "state": "Kaduna",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 10.5206,
+        "longitude": 7.4259,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "00:00",
+        "closing": "23:59",
+        "closesNextDay": true,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A Kaduna farm-produce market known for vegetables, spices, grains and other food items.",
+      "thumbnailImages": [
+        "images/markets/bakin-dogo-1.jpg",
+        "images/markets/bakin-dogo-2.jpg",
+        "images/markets/bakin-dogo-3.jpg"
+      ],
+      "produce": [
+        "Tomatoes",
+        "Onions",
+        "Pepper",
+        "Pumpkin",
+        "Waterleaf",
+        "Bitter leaf",
+        "Palm oil",
+        "Groundnut oil"
+      ],
+      "rating": 3.8,
+      "ratingSource": null,
+      "numberOfGrowers": 280,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-KAN-001",
+      "marketName": "Dawanau International Grains Market",
+      "area": "Dawanau, Kano",
+      "state": "Kano",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 11.982,
+        "longitude": 8.401,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major northern grain market handling large volumes of agricultural commodities and food grains.",
+      "thumbnailImages": [
+        "images/markets/dawanau-grains-1.jpg",
+        "images/markets/dawanau-grains-2.jpg",
+        "images/markets/dawanau-grains-3.jpg"
+      ],
+      "produce": [
+        "Maize",
+        "Millet",
+        "Sorghum",
+        "Rice",
+        "Beans",
+        "Groundnuts",
+        "Soybeans",
+        "Wheat"
+      ],
+      "rating": 4.7,
+      "ratingSource": null,
+      "numberOfGrowers": 900,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-KAN-002",
+      "marketName": "Kantin Kwari Market",
+      "area": "Kofar Mata, Kano",
+      "state": "Kano",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 11.9846,
+        "longitude": 8.52385,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "09:00",
+        "closing": "17:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major Kano trading market; its wider market area also connects with foodstuff and agricultural trading.",
+      "thumbnailImages": [
+        "images/markets/kantin-kwari-1.jpg",
+        "images/markets/kantin-kwari-2.jpg",
+        "images/markets/kantin-kwari-3.jpg"
+      ],
+      "produce": [
+        "Grains",
+        "Beans",
+        "Rice",
+        "Groundnuts",
+        "Pepper",
+        "Onions",
+        "Dried fish",
+        "Foodstuffs"
+      ],
+      "rating": 4.2,
+      "ratingSource": null,
+      "numberOfGrowers": 420,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-KAT-002",
+      "marketName": "Dandume Market",
+      "area": "Dandume LGA",
+      "state": "Katsina",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 11.462,
+        "longitude": 7.128,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "06:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A large agricultural market attracting farmers and merchants from Katsina and neighboring states.",
+      "thumbnailImages": [
+        "images/markets/dandume-1.jpg",
+        "images/markets/dandume-2.jpg",
+        "images/markets/dandume-3.jpg"
+      ],
+      "produce": [
+        "Maize",
+        "Sorghum",
+        "Millet",
+        "Rice",
+        "Tubers",
+        "Fruits",
+        "Vegetables",
+        "Livestock"
+      ],
+      "rating": 4.1,
+      "ratingSource": null,
+      "numberOfGrowers": 650,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-KAT-001",
+      "marketName": "Katsina Central Market",
+      "area": "Katsina",
+      "state": "Katsina",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 12.97123,
+        "longitude": 7.60167,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "19:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A central Katsina marketplace serving shoppers and traders with food and agricultural products.",
+      "thumbnailImages": [
+        "images/markets/katsina-central-1.jpg",
+        "images/markets/katsina-central-2.jpg",
+        "images/markets/katsina-central-3.jpg"
+      ],
+      "produce": [
+        "Millet",
+        "Sorghum",
+        "Maize",
+        "Rice",
+        "Beans",
+        "Groundnuts",
+        "Onions",
+        "Tomatoes"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 430,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-KEB-002",
+      "marketName": "Argungu Central Market",
+      "area": "Argungu",
+      "state": "Kebbi",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 12.751,
+        "longitude": 4.525,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "10:30",
+        "closing": "18:30",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major Argungu trading centre in an important agricultural area of Kebbi State.",
+      "thumbnailImages": [
+        "images/markets/argungu-central-1.jpg",
+        "images/markets/argungu-central-2.jpg",
+        "images/markets/argungu-central-3.jpg"
+      ],
+      "produce": [
+        "Rice",
+        "Onions",
+        "Millet",
+        "Sorghum",
+        "Maize",
+        "Beans",
+        "Fish",
+        "Vegetables"
+      ],
+      "rating": 3.9,
+      "ratingSource": null,
+      "numberOfGrowers": 350,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-KEB-001",
+      "marketName": "Birnin Kebbi Central Market",
+      "area": "Birnin Kebbi",
+      "state": "Kebbi",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 12.4539,
+        "longitude": 4.1975,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "09:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A central Birnin Kebbi market serving local shoppers with foodstuffs and agricultural produce.",
+      "thumbnailImages": [
+        "images/markets/birnin-kebbi-central-1.jpg",
+        "images/markets/birnin-kebbi-central-2.jpg",
+        "images/markets/birnin-kebbi-central-3.jpg"
+      ],
+      "produce": [
+        "Rice",
+        "Millet",
+        "Sorghum",
+        "Maize",
+        "Beans",
+        "Groundnuts",
+        "Onions",
+        "Vegetables"
+      ],
+      "rating": 3.9,
+      "ratingSource": null,
+      "numberOfGrowers": 390,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-KOG-001",
+      "marketName": "Kogi International Market",
+      "area": "Lokoja",
+      "state": "Kogi",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 7.8023,
+        "longitude": 6.7333,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "06:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major Lokoja market serving the state capital with foodstuffs, fresh produce and other goods.",
+      "thumbnailImages": [
+        "images/markets/kogi-international-1.jpg",
+        "images/markets/kogi-international-2.jpg",
+        "images/markets/kogi-international-3.jpg"
+      ],
+      "produce": [
+        "Yam",
+        "Cassava",
+        "Rice",
+        "Beans",
+        "Tomatoes",
+        "Pepper",
+        "Vegetables",
+        "Plantain"
+      ],
+      "rating": 3.7,
+      "ratingSource": null,
+      "numberOfGrowers": 360,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-KOG-002",
+      "marketName": "New Market",
+      "area": "Lokoja-Ankpa Road, Lokoja",
+      "state": "Kogi",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 7.793,
+        "longitude": 6.735,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "00:00",
+        "closing": "23:59",
+        "closesNextDay": true,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A Lokoja market along the Lokoja-Ankpa corridor with food and agricultural trading.",
+      "thumbnailImages": [
+        "images/markets/new-market-lokoja-1.jpg",
+        "images/markets/new-market-lokoja-2.jpg",
+        "images/markets/new-market-lokoja-3.jpg"
+      ],
+      "produce": [
+        "Yam",
+        "Cassava",
+        "Rice",
+        "Beans",
+        "Tomatoes",
+        "Pepper",
+        "Vegetables",
+        "Fruits"
+      ],
+      "rating": 4.2,
+      "ratingSource": null,
+      "numberOfGrowers": 300,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-KWR-002",
+      "marketName": "Central Market, Ilala",
+      "area": "Ilala, Kwara",
+      "state": "Kwara",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 8.6,
+        "longitude": 4.7,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A local Kwara market serving surrounding communities with food, produce and everyday market goods.",
+      "thumbnailImages": [
+        "images/markets/kwara-ilala-1.jpg",
+        "images/markets/kwara-ilala-2.jpg",
+        "images/markets/kwara-ilala-3.jpg"
+      ],
+      "produce": [
+        "Yam",
+        "Cassava",
+        "Rice",
+        "Beans",
+        "Maize",
+        "Tomatoes",
+        "Pepper",
+        "Vegetables"
+      ],
+      "rating": 4.5,
+      "ratingSource": null,
+      "numberOfGrowers": 220,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-KWR-001",
+      "marketName": "Ilorin Central Market",
+      "area": "Ilorin",
+      "state": "Kwara",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 8.4966,
+        "longitude": 4.5421,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major Ilorin market supplying residents with foodstuffs and agricultural produce from Kwara and surrounding areas.",
+      "thumbnailImages": [
+        "images/markets/ilorin-central-1.jpg",
+        "images/markets/ilorin-central-2.jpg",
+        "images/markets/ilorin-central-3.jpg"
+      ],
+      "produce": [
+        "Yam",
+        "Cassava",
+        "Rice",
+        "Beans",
+        "Maize",
+        "Tomatoes",
+        "Pepper",
+        "Vegetables"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 420,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-LAG-002",
+      "marketName": "Ikorodu Market",
+      "area": "Ikorodu",
+      "state": "Lagos",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 6.58026,
+        "longitude": 3.62669,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "09:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A busy Ikorodu market serving local residents with food, farm produce and everyday goods.",
+      "thumbnailImages": [
+        "images/markets/ikorodu-market-1.jpg",
+        "images/markets/ikorodu-market-2.jpg",
+        "images/markets/ikorodu-market-3.jpg"
+      ],
+      "produce": [
+        "Tomatoes",
+        "Pepper",
+        "Onions",
+        "Vegetables",
+        "Plantain",
+        "Fruits",
+        "Yam",
+        "Garri"
+      ],
+      "rating": 5,
+      "ratingSource": null,
+      "numberOfGrowers": 320,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-LAG-001",
+      "marketName": "Mile 12 International Market",
+      "area": "Ikosi-Ketu, Kosofe",
+      "state": "Lagos",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 6.6081,
+        "longitude": 3.3926,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "06:00",
+        "closing": "23:59",
+        "closesNextDay": true,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major Lagos food distribution hub known for fresh fruits, vegetables and farm produce.",
+      "thumbnailImages": [
+        "images/markets/mile-12-1.jpg",
+        "images/markets/mile-12-2.jpg",
+        "images/markets/mile-12-3.jpg"
+      ],
+      "produce": [
+        "Tomatoes",
+        "Pepper",
+        "Onions",
+        "Leafy vegetables",
+        "Plantain",
+        "Banana",
+        "Yam",
+        "Potatoes"
+      ],
+      "rating": 4.2,
+      "ratingSource": null,
+      "numberOfGrowers": 850,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-NAS-002",
+      "marketName": "Keffi Central Market",
+      "area": "Keffi",
+      "state": "Nasarawa",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 8.8465,
+        "longitude": 7.8735,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "09:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A central Keffi market serving residents with foodstuffs, farm produce and everyday goods.",
+      "thumbnailImages": [
+        "images/markets/keffi-central-1.jpg",
+        "images/markets/keffi-central-2.jpg",
+        "images/markets/keffi-central-3.jpg"
+      ],
+      "produce": [
+        "Yam",
+        "Cassava",
+        "Rice",
+        "Beans",
+        "Maize",
+        "Tomatoes",
+        "Pepper",
+        "Vegetables"
+      ],
+      "rating": 3.6,
+      "ratingSource": null,
+      "numberOfGrowers": 280,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-NAS-001",
+      "marketName": "Lafia Market (Shinge Market)",
+      "area": "Lafia",
+      "state": "Nasarawa",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 8.6401,
+        "longitude": 8.6996,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Tuesday",
+        "Thursday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "17:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major Lafia livestock and agricultural trading market serving the Nasarawa area.",
+      "thumbnailImages": [
+        "images/markets/lafia-market-1.jpg",
+        "images/markets/lafia-market-2.jpg",
+        "images/markets/lafia-market-3.jpg"
+      ],
+      "produce": [
+        "Cattle",
+        "Sheep",
+        "Goats",
+        "Yam",
+        "Sorghum",
+        "Millet",
+        "Sesame",
+        "Soybeans"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 300,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-NIG-002",
+      "marketName": "Old Market Bida",
+      "area": "Bida",
+      "state": "Niger",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 9.0833,
+        "longitude": 6.0167,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "16:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A Bida farmers' market serving local communities with agricultural produce and foodstuffs.",
+      "thumbnailImages": [
+        "images/markets/old-market-bida-1.jpg",
+        "images/markets/old-market-bida-2.jpg",
+        "images/markets/old-market-bida-3.jpg"
+      ],
+      "produce": [
+        "Rice",
+        "Yam",
+        "Cassava",
+        "Beans",
+        "Maize",
+        "Millet",
+        "Sorghum",
+        "Vegetables"
+      ],
+      "rating": 3.9,
+      "ratingSource": null,
+      "numberOfGrowers": 260,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-NIG-001",
+      "marketName": "Tunga Market",
+      "area": "Tudun Wada South, Minna",
+      "state": "Niger",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 9.615,
+        "longitude": 6.556,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "22:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A busy Minna market with long daily trading hours and access to food and farm produce.",
+      "thumbnailImages": [
+        "images/markets/tunga-market-minna-1.jpg",
+        "images/markets/tunga-market-minna-2.jpg",
+        "images/markets/tunga-market-minna-3.jpg"
+      ],
+      "produce": [
+        "Yam",
+        "Rice",
+        "Beans",
+        "Maize",
+        "Cassava",
+        "Tomatoes",
+        "Pepper",
+        "Vegetables"
+      ],
+      "rating": 3.7,
+      "ratingSource": null,
+      "numberOfGrowers": 350,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-OGN-001",
+      "marketName": "Kuto Market",
+      "area": "Kuto, Abeokuta South",
+      "state": "Ogun",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 7.139179,
+        "longitude": 3.350375,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "operatingHours": {
+        "opening": "06:00",
+        "closing": "19:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A central Abeokuta food market with strong trade in fresh food and agricultural produce.",
+      "thumbnailImages": [
+        "images/markets/kuto-market-1.jpg",
+        "images/markets/kuto-market-2.jpg",
+        "images/markets/kuto-market-3.jpg"
+      ],
+      "produce": [
+        "Rice",
+        "Beans",
+        "Yam",
+        "Cassava products",
+        "Tomatoes",
+        "Pepper",
+        "Vegetables",
+        "Meat"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 410,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-OGN-002",
+      "marketName": "Lafenwa Market",
+      "area": "Lafenwa, Abeokuta",
+      "state": "Ogun",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 7.158063,
+        "longitude": 3.326481,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "06:00",
+        "closing": "19:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A large Abeokuta market area known for food trading and fresh agricultural products.",
+      "thumbnailImages": [
+        "images/markets/lafenwa-market-1.jpg",
+        "images/markets/lafenwa-market-2.jpg",
+        "images/markets/lafenwa-market-3.jpg"
+      ],
+      "produce": [
+        "Tomatoes",
+        "Pepper",
+        "Fish",
+        "Meat",
+        "Vegetables",
+        "Rice",
+        "Beans",
+        "Yam"
+      ],
+      "rating": 4.1,
+      "ratingSource": null,
+      "numberOfGrowers": 360,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-OND-001",
+      "marketName": "Oja Oba Market",
+      "area": "Oja Oba, Akure",
+      "state": "Ondo",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 7.257132,
+        "longitude": 5.205791,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "00:00",
+        "closing": "23:59",
+        "closesNextDay": true,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A historic Akure market offering fresh produce, food items and locally traded goods.",
+      "thumbnailImages": [
+        "images/markets/oja-oba-akure-1.jpg",
+        "images/markets/oja-oba-akure-2.jpg",
+        "images/markets/oja-oba-akure-3.jpg"
+      ],
+      "produce": [
+        "Tomatoes",
+        "Pepper",
+        "Onions",
+        "Vegetables",
+        "Yam",
+        "Plantain",
+        "Fruits",
+        "Cassava products"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 280,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-OND-002",
+      "marketName": "Oja Oba Market",
+      "area": "Ondo Town",
+      "state": "Ondo",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 7.105,
+        "longitude": 4.9992,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "07:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A local Ondo food market associated with fresh vegetables and everyday agricultural produce.",
+      "thumbnailImages": [
+        "images/markets/oja-oba-ondo-1.jpg",
+        "images/markets/oja-oba-ondo-2.jpg",
+        "images/markets/oja-oba-ondo-3.jpg"
+      ],
+      "produce": [
+        "Pumpkin leaves",
+        "Waterleaf",
+        "Amaranth",
+        "Tomatoes",
+        "Pepper",
+        "Onions",
+        "Yam",
+        "Plantain"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 190,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-OSU-001",
+      "marketName": "Oja Oba Market",
+      "area": "Oja Oba, Osogbo",
+      "state": "Osun",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 7.7822,
+        "longitude": 4.5553,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "00:00",
+        "closing": "23:59",
+        "closesNextDay": true,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major Osogbo market where shoppers can find fresh food, farm produce and everyday goods.",
+      "thumbnailImages": [
+        "images/markets/oja-oba-osogbo-1.jpg",
+        "images/markets/oja-oba-osogbo-2.jpg",
+        "images/markets/oja-oba-osogbo-3.jpg"
+      ],
+      "produce": [
+        "Tomatoes",
+        "Pepper",
+        "Onions",
+        "Vegetables",
+        "Yam",
+        "Cassava products",
+        "Plantain",
+        "Fruits"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 300,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-OSU-002",
+      "marketName": "Otaefun Market",
+      "area": "Oshogbo-Ikirun Road, Olorunda",
+      "state": "Osun",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 7.809,
+        "longitude": 4.559,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "06:00",
+        "closing": "21:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A popular Osogbo food market with direct farm produce, grains, spices and everyday foodstuffs.",
+      "thumbnailImages": [
+        "images/markets/otaefun-market-1.jpg",
+        "images/markets/otaefun-market-2.jpg",
+        "images/markets/otaefun-market-3.jpg"
+      ],
+      "produce": [
+        "Rice",
+        "Beans",
+        "Garri",
+        "Yam",
+        "Potatoes",
+        "Tomatoes",
+        "Pepper",
+        "Onions",
+        "Ginger",
+        "Turmeric"
+      ],
+      "rating": 3.8,
+      "ratingSource": null,
+      "numberOfGrowers": 340,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-OYO-002",
+      "marketName": "Bodija Market",
+      "area": "Bodija, Ibadan",
+      "state": "Oyo",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 7.43584,
+        "longitude": 3.91918,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "10:00",
+        "closing": "20:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "One of Ibadan's major food markets, with extensive trade in vegetables, grains, yam and other groceries.",
+      "thumbnailImages": [
+        "images/markets/bodija-market-1.jpg",
+        "images/markets/bodija-market-2.jpg",
+        "images/markets/bodija-market-3.jpg"
+      ],
+      "produce": [
+        "Yam",
+        "Rice",
+        "Beans",
+        "Garri",
+        "Vegetables",
+        "Pepper",
+        "Tomatoes",
+        "Meat"
+      ],
+      "rating": 4,
+      "ratingSource": null,
+      "numberOfGrowers": 520,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-OYO-001",
+      "marketName": "Dugbe Market",
+      "area": "Dugbe, Ibadan",
+      "state": "Oyo",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 7.387611,
+        "longitude": 3.8795,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "19:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A central Ibadan trading hub linking shoppers with food, farm produce and general merchandise.",
+      "thumbnailImages": [
+        "images/markets/dugbe-market-1.jpg",
+        "images/markets/dugbe-market-2.jpg",
+        "images/markets/dugbe-market-3.jpg"
+      ],
+      "produce": [
+        "Yam",
+        "Cassava products",
+        "Rice",
+        "Beans",
+        "Tomatoes",
+        "Pepper",
+        "Onions",
+        "Vegetables"
+      ],
+      "rating": 4.2,
+      "ratingSource": null,
+      "numberOfGrowers": 290,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-PLA-002",
+      "marketName": "Katako Market",
+      "area": "Jos",
+      "state": "Plateau",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 9.92,
+        "longitude": 8.887,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "operatingHours": {
+        "opening": "06:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A busy Jos market with strong daily trading activity and foodstuff sales.",
+      "thumbnailImages": [
+        "images/markets/katako-jos-1.jpg",
+        "images/markets/katako-jos-2.jpg",
+        "images/markets/katako-jos-3.jpg"
+      ],
+      "produce": [
+        "Potatoes",
+        "Tomatoes",
+        "Pepper",
+        "Onions",
+        "Vegetables",
+        "Yam",
+        "Rice",
+        "Beans"
+      ],
+      "rating": 3.9,
+      "ratingSource": null,
+      "numberOfGrowers": 360,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-PLA-001",
+      "marketName": "Terminus Market",
+      "area": "Jos North, Jos",
+      "state": "Plateau",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 9.9213,
+        "longitude": 8.8909,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "19:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major Jos commercial market where food, farm produce and other goods are traded.",
+      "thumbnailImages": [
+        "images/markets/terminus-jos-1.jpg",
+        "images/markets/terminus-jos-2.jpg",
+        "images/markets/terminus-jos-3.jpg"
+      ],
+      "produce": [
+        "Irish potatoes",
+        "Tomatoes",
+        "Pepper",
+        "Carrots",
+        "Cabbage",
+        "Yam",
+        "Maize",
+        "Vegetables"
+      ],
+      "rating": 4.1,
+      "ratingSource": null,
+      "numberOfGrowers": 420,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-RIV-002",
+      "marketName": "Creek Road Market",
+      "area": "Creek Road, Port Harcourt",
+      "state": "Rivers",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 4.7695,
+        "longitude": 7.012,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "21:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A Port Harcourt market serving the city with food, fresh produce and other market goods.",
+      "thumbnailImages": [
+        "images/markets/creek-road-1.jpg",
+        "images/markets/creek-road-2.jpg",
+        "images/markets/creek-road-3.jpg"
+      ],
+      "produce": [
+        "Plantain",
+        "Yam",
+        "Cassava",
+        "Vegetables",
+        "Tomatoes",
+        "Pepper",
+        "Fish",
+        "Fruits"
+      ],
+      "rating": 4.1,
+      "ratingSource": null,
+      "numberOfGrowers": 300,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-RIV-001",
+      "marketName": "Mile One Market",
+      "area": "Diobu, Port Harcourt",
+      "state": "Rivers",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 4.7722,
+        "longitude": 6.9945,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "One of Port Harcourt's large open-air markets, with substantial trade in foodstuffs and everyday goods.",
+      "thumbnailImages": [
+        "images/markets/mile-one-ph-1.jpg",
+        "images/markets/mile-one-ph-2.jpg",
+        "images/markets/mile-one-ph-3.jpg"
+      ],
+      "produce": [
+        "Plantain",
+        "Banana",
+        "Yam",
+        "Cassava",
+        "Tomatoes",
+        "Pepper",
+        "Vegetables",
+        "Fruits"
+      ],
+      "rating": 4.2,
+      "ratingSource": null,
+      "numberOfGrowers": 500,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-SOK-002",
+      "marketName": "Kara Wood Market",
+      "area": "Mamarun Nufawa, Sokoto",
+      "state": "Sokoto",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 13.058,
+        "longitude": 5.226,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "09:00",
+        "closing": "19:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A Sokoto trading market with daily commercial activity and connections to the city's food supply network.",
+      "thumbnailImages": [
+        "images/markets/kara-sokoto-1.jpg",
+        "images/markets/kara-sokoto-2.jpg",
+        "images/markets/kara-sokoto-3.jpg"
+      ],
+      "produce": [
+        "Grains",
+        "Beans",
+        "Groundnuts",
+        "Onions",
+        "Pepper",
+        "Tomatoes",
+        "Livestock feed",
+        "Foodstuffs"
+      ],
+      "rating": 3.9,
+      "ratingSource": null,
+      "numberOfGrowers": 240,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-SOK-001",
+      "marketName": "Sokoto Central Market (Babbar Kasuwa)",
+      "area": "Minanata, Sokoto",
+      "state": "Sokoto",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 13.0607,
+        "longitude": 5.2233,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "10:00",
+        "closing": "18:30",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "Sokoto's central market and a major trading point for foodstuffs and agricultural products.",
+      "thumbnailImages": [
+        "images/markets/sokoto-central-1.jpg",
+        "images/markets/sokoto-central-2.jpg",
+        "images/markets/sokoto-central-3.jpg"
+      ],
+      "produce": [
+        "Millet",
+        "Sorghum",
+        "Rice",
+        "Beans",
+        "Onions",
+        "Tomatoes",
+        "Pepper",
+        "Groundnuts"
+      ],
+      "rating": 4.4,
+      "ratingSource": null,
+      "numberOfGrowers": 480,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-TAR-001",
+      "marketName": "Jalingo Central Market",
+      "area": "Palace Way, Jalingo",
+      "state": "Taraba",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 8.8942,
+        "longitude": 11.3599,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "17:29",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A central Jalingo market supplying the city with fresh produce, foodstuffs and regional goods.",
+      "thumbnailImages": [
+        "images/markets/jalingo-central-1.jpg",
+        "images/markets/jalingo-central-2.jpg",
+        "images/markets/jalingo-central-3.jpg"
+      ],
+      "produce": [
+        "Yam",
+        "Rice",
+        "Beans",
+        "Vegetables",
+        "Fruits",
+        "Maize",
+        "Tomatoes",
+        "Pepper"
+      ],
+      "rating": 3.8,
+      "ratingSource": null,
+      "numberOfGrowers": 380,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-TAR-002",
+      "marketName": "Kasuwan Bera, Kofai",
+      "area": "Kofai, Jalingo",
+      "state": "Taraba",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 8.9121,
+        "longitude": 11.3157,
+        "accuracy": "marketplace-level"
+      },
+      "operatingDays": [
+        "Monday",
+        "Friday"
+      ],
+      "operatingHours": {
+        "opening": "06:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A community market known for agro-commodities and local food trading, with Monday and Friday market days.",
+      "thumbnailImages": [
+        "images/markets/kasuwan-bera-1.jpg",
+        "images/markets/kasuwan-bera-2.jpg",
+        "images/markets/kasuwan-bera-3.jpg"
+      ],
+      "produce": [
+        "Groundnuts",
+        "Grains",
+        "Yam",
+        "Cassava",
+        "Vegetables",
+        "Smoked fish",
+        "Foodstuffs"
+      ],
+      "rating": 3.7,
+      "ratingSource": null,
+      "numberOfGrowers": 220,
+      "growerCountAccuracy": null,
+      "dataNotes": null
+    },
+    {
+      "id": "NG-YO-002",
+      "marketName": "Gashua Modern Market",
+      "area": "Nguru-Gashua-Damasak Road, Gashua",
+      "state": "Yobe",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 12.876389,
+        "longitude": 10.996421,
+        "accuracy": "Gashua road-area coordinate"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A modern Gashua market serving residents with foodstuffs, grains, vegetables and everyday goods.",
+      "thumbnailImages": [
+        "images/markets/yobe/gashua-modern-1.jpg",
+        "images/markets/yobe/gashua-modern-2.jpg",
+        "images/markets/yobe/gashua-modern-3.jpg"
+      ],
+      "produce": [
+        "grains",
+        "beans",
+        "millet",
+        "sorghum",
+        "onions",
+        "tomatoes",
+        "vegetables",
+        "groundnuts"
+      ],
+      "rating": 4.1,
+      "ratingSource": "Google business listing",
+      "numberOfGrowers": 180,
+      "growerCountAccuracy": "project estimate; not an official grower census",
+      "dataNotes": "Rating is from a current public business listing. Location uses a published Gashua road coordinate; hours and grower count are project estimates."
+    },
+    {
+      "id": "NG-YO-001",
+      "marketName": "Potiskum Main Market",
+      "area": "Potiskum, Yobe",
+      "state": "Yobe",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 11.71594,
+        "longitude": 11.07769,
+        "accuracy": "market-depot coordinate"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A major Potiskum trading area serving shoppers with food staples, grains and locally traded farm products.",
+      "thumbnailImages": [
+        "images/markets/yobe/potiskum-main-1.jpg",
+        "images/markets/yobe/potiskum-main-2.jpg",
+        "images/markets/yobe/potiskum-main-3.jpg"
+      ],
+      "produce": [
+        "grains",
+        "millet",
+        "sorghum",
+        "beans",
+        "groundnuts",
+        "onions",
+        "tomatoes",
+        "vegetables"
+      ],
+      "rating": 4,
+      "ratingSource": "Google business listing",
+      "numberOfGrowers": 250,
+      "growerCountAccuracy": "project estimate; not an official grower census",
+      "dataNotes": "Coordinates are supported by a published Potiskum market-depot study; current hours/rating are from a public business listing. Grower count is a project estimate."
+    },
+    {
+      "id": "NG-ZA-002",
+      "marketName": "Central Market Kaura Namoda",
+      "area": "Shinkafi Road, Kaura Namoda",
+      "state": "Zamfara",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 12.593,
+        "longitude": 6.584,
+        "accuracy": "Kaura Namoda market-area approximate"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "08:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "A central trading point in Kaura Namoda for food staples, farm produce and everyday market goods.",
+      "thumbnailImages": [
+        "images/markets/zamfara/kaura-namoda-1.jpg",
+        "images/markets/zamfara/kaura-namoda-2.jpg",
+        "images/markets/zamfara/kaura-namoda-3.jpg"
+      ],
+      "produce": [
+        "grains",
+        "beans",
+        "onions",
+        "groundnuts",
+        "tomatoes",
+        "pepper",
+        "vegetables"
+      ],
+      "rating": 3.8,
+      "ratingSource": "project estimate; public listing has no rating shown",
+      "numberOfGrowers": 160,
+      "growerCountAccuracy": "project estimate; not an official grower census",
+      "dataNotes": "Market identity/location is supported by a public business listing. No reliable public rating or hours were found, so those fields are clearly marked as project estimates."
+    },
+    {
+      "id": "NG-ZA-001",
+      "marketName": "Gusau Central Market",
+      "area": "New Central Market, Gusau",
+      "state": "Zamfara",
+      "country": "Nigeria",
+      "location": {
+        "latitude": 12.2,
+        "longitude": 6.0667,
+        "accuracy": "Gusau LGA approximate"
+      },
+      "operatingDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "operatingHours": {
+        "opening": "09:00",
+        "closing": "18:00",
+        "closesNextDay": false,
+        "timezone": "Africa/Lagos"
+      },
+      "description": "The major central market in Gusau, supporting trade in farm produce, grains, onions and other goods.",
+      "thumbnailImages": [
+        "images/markets/zamfara/gusau-central-1.jpg",
+        "images/markets/zamfara/gusau-central-2.jpg",
+        "images/markets/zamfara/gusau-central-3.jpg"
+      ],
+      "produce": [
+        "onions",
+        "grains",
+        "beans",
+        "groundnuts",
+        "tomatoes",
+        "pepper",
+        "vegetables",
+        "livestock products"
+      ],
+      "rating": 5,
+      "ratingSource": "Google business listing; only 2 reviews",
+      "numberOfGrowers": 300,
+      "growerCountAccuracy": "project estimate; not an official grower census",
+      "dataNotes": "Zamfara Ministry of Commerce confirms it supervises Gusau Central Market. A recent research paper documents onion marketing there. Rating has a very small review count; coordinates and grower count are approximate/project values."
+    }
+  ]
+}

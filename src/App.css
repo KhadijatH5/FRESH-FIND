@@ -1,3 +1,15 @@
+.app-shell {
+  min-height: 100vh;
+  background: linear-gradient(180deg, #F5F9F5 0%, #E8F5E9 50%, #DCEFD8 100%);
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.app-shell main {
+  width: 100%;
+  overflow-x: hidden;
+}
+
 .counter {
   font-size: 16px;
   padding: 5px 10px;

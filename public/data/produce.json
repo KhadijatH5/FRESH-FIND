@@ -1,0 +1,3743 @@
+{
+  "dataset": "FreshFind Nigeria Produce Guide",
+  "version": "1.0.0",
+  "generatedAt": "2026-09-24",
+  "country": "Nigeria",
+  "currency": "NGN",
+  "produceCount": 33,
+  "monthLegend": {
+    "1": "January",
+    "2": "February",
+    "3": "March",
+    "4": "April",
+    "5": "May",
+    "6": "June",
+    "7": "July",
+    "8": "August",
+    "9": "September",
+    "10": "October",
+    "11": "November",
+    "12": "December"
+  },
+  "seasonStatusMeaning": {
+    "peak": "Heaviest harvest, lowest prices, glut in the market",
+    "inSeason": "Good supply — the produce is actively selling",
+    "offSeason": "Scarce, stored or imported stock — highest prices"
+  },
+  "categories": [
+    "Fish & Seafood",
+    "Fruits",
+    "Grains & Pulses",
+    "Leafy Vegetables",
+    "Nuts & Oils",
+    "Processed Staples",
+    "Spices & Condiments",
+    "Tubers & Roots",
+    "Vegetables"
+  ],
+  "produce": [
+    {
+      "produceId": "tomato",
+      "id": "tomato",
+      "name": "Tomatoes",
+      "botanicalName": "Solanum lycopersicum",
+      "localName": "Tomati",
+      "category": "Vegetables",
+      "description": "Nigeria's most traded vegetable. Sold by the basket from northern irrigation belts and southern farms; prices swing hardest of any produce when supply thins.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per 50kg basket",
+        "min": 8000,
+        "max": 45000,
+        "display": "₦8,000 – ₦45,000 per 50kg basket"
+      },
+      "priceRange": "₦8,000 – ₦45,000",
+      "unit": "per 50kg basket",
+      "nutrition": "Rich in lycopene, vitamin C and potassium. Cooking with oil raises lycopene absorption.",
+      "imageUrl": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?w=400&h=300&fit=crop",
+      "isPeakSeason": false,
+      "marketCount": 61,
+      "marketIds": [
+        "NG-AB-002",
+        "NG-AD-001",
+        "NG-AK-001",
+        "NG-AK-002",
+        "NG-AN-001",
+        "NG-AN-002",
+        "NG-BAU-001",
+        "NG-BAU-002",
+        "NG-BAY-001",
+        "NG-BAY-002",
+        "NG-BEN-001",
+        "NG-BEN-002",
+        "NG-BOR-001",
+        "NG-BOR-002",
+        "NG-CRS-001",
+        "NG-CRS-002",
+        "NG-DEL-001",
+        "NG-DEL-002",
+        "NG-EBY-001",
+        "NG-EBY-002",
+        "NG-EDO-001",
+        "NG-EDO-002",
+        "NG-EKT-001",
+        "NG-EKT-002",
+        "NG-EN-001",
+        "NG-EN-002",
+        "NG-GO-001",
+        "NG-GO-002",
+        "NG-IM-001",
+        "NG-IM-002",
+        "NG-JI-001",
+        "NG-KAD-001",
+        "NG-KAD-002",
+        "NG-KAT-001",
+        "NG-KOG-001",
+        "NG-KOG-002",
+        "NG-KWR-001",
+        "NG-KWR-002",
+        "NG-LAG-001",
+        "NG-LAG-002",
+        "NG-NAS-002",
+        "NG-NIG-001",
+        "NG-OGN-001",
+        "NG-OGN-002",
+        "NG-OND-001",
+        "NG-OND-002",
+        "NG-OSU-001",
+        "NG-OSU-002",
+        "NG-OYO-001",
+        "NG-OYO-002",
+        "NG-PLA-001",
+        "NG-PLA-002",
+        "NG-RIV-001",
+        "NG-RIV-002",
+        "NG-SOK-001",
+        "NG-SOK-002",
+        "NG-TAR-001",
+        "NG-YO-001",
+        "NG-YO-002",
+        "NG-ZA-001",
+        "NG-ZA-002"
+      ],
+      "peakMonths": [
+        1,
+        2,
+        3
+      ],
+      "peakMonthsLabel": "January, February, March",
+      "inSeasonMonths": [
+        11,
+        12,
+        4,
+        5
+      ],
+      "inSeasonMonthsLabel": "November, December, April, May",
+      "offSeasonMonths": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "off-season",
+      "optional": {
+        "selectAtMarket": "Pick firm fruit with a deep, even colour and tight skin. Reject soft patches, splits and any fruit leaking juice — one spoiled tomato spreads rot through the basket.",
+        "optimalStorage": "Store at room temperature, stem-side down, never refrigerate whole; keep out of direct sun and use within 3-5 days. Green fruit ripens off the vine.",
+        "nutritionalHighlight": "Rich in lycopene, vitamin C and potassium. Cooking with oil raises lycopene absorption."
+      }
+    },
+    {
+      "produceId": "chilli-pepper",
+      "id": "chilli-pepper",
+      "name": "Pepper (Chilli / Tatase)",
+      "botanicalName": "Capsicum annuum",
+      "localName": "Ata",
+      "category": "Vegetables",
+      "description": "Fresh red and green chilli, plus the milder tatase. Sold by the basket and used in nearly every Nigerian soup and stew base.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per 50kg basket",
+        "min": 10000,
+        "max": 60000,
+        "display": "₦10,000 – ₦60,000 per 50kg basket"
+      },
+      "priceRange": "₦10,000 – ₦60,000",
+      "unit": "per 50kg basket",
+      "nutrition": "High in vitamin C — weight for weight, more than citrus — plus capsaicin, an anti-inflammatory compound.",
+      "imageUrl": "https://images.unsplash.com/photo-1599598425947-d35278b8d6f4?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
+      "marketCount": 57,
+      "marketIds": [
+        "NG-AB-001",
+        "NG-AB-002",
+        "NG-AK-001",
+        "NG-AK-002",
+        "NG-AN-001",
+        "NG-AN-002",
+        "NG-BAU-001",
+        "NG-BAY-001",
+        "NG-BAY-002",
+        "NG-BEN-001",
+        "NG-BEN-002",
+        "NG-BOR-001",
+        "NG-BOR-002",
+        "NG-CRS-001",
+        "NG-CRS-002",
+        "NG-DEL-001",
+        "NG-DEL-002",
+        "NG-EBY-001",
+        "NG-EBY-002",
+        "NG-EDO-001",
+        "NG-EDO-002",
+        "NG-EKT-001",
+        "NG-EKT-002",
+        "NG-EN-001",
+        "NG-EN-002",
+        "NG-GO-001",
+        "NG-GO-002",
+        "NG-IM-001",
+        "NG-IM-002",
+        "NG-KAD-001",
+        "NG-KAD-002",
+        "NG-KAN-002",
+        "NG-KOG-001",
+        "NG-KOG-002",
+        "NG-KWR-001",
+        "NG-KWR-002",
+        "NG-LAG-001",
+        "NG-LAG-002",
+        "NG-NAS-002",
+        "NG-NIG-001",
+        "NG-OGN-001",
+        "NG-OGN-002",
+        "NG-OND-001",
+        "NG-OND-002",
+        "NG-OSU-001",
+        "NG-OSU-002",
+        "NG-OYO-001",
+        "NG-OYO-002",
+        "NG-PLA-001",
+        "NG-PLA-002",
+        "NG-RIV-001",
+        "NG-RIV-002",
+        "NG-SOK-001",
+        "NG-SOK-002",
+        "NG-TAR-001",
+        "NG-ZA-001",
+        "NG-ZA-002"
+      ],
+      "peakMonths": [
+        8,
+        9,
+        10
+      ],
+      "peakMonthsLabel": "August, September, October",
+      "inSeasonMonths": [
+        7,
+        11,
+        12,
+        1
+      ],
+      "inSeasonMonthsLabel": "July, November, December, January",
+      "offSeasonMonths": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "peak",
+      "optional": {
+        "selectAtMarket": "Choose glossy, firm pods with intact stalks. Wrinkled skin signals age; black soft spots mean it will not survive the trip home.",
+        "optimalStorage": "Sun-dry or smoke to extend shelf life for months; fresh pods keep 1-2 weeks in a breathable sack in a cool, dry room.",
+        "nutritionalHighlight": "High in vitamin C — weight for weight, more than citrus — plus capsaicin, an anti-inflammatory compound."
+      }
+    },
+    {
+      "produceId": "yam",
+      "id": "yam",
+      "name": "Yam",
+      "botanicalName": "Dioscorea rotundata",
+      "localName": "Isu",
+      "category": "Tubers & Roots",
+      "description": "The premium tuber, sold by the hundred. New yam arrives with the harvest festivals; old yam holds through the dry season.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per 100 tubers",
+        "min": 40000,
+        "max": 250000,
+        "display": "₦40,000 – ₦250,000 per 100 tubers"
+      },
+      "priceRange": "₦40,000 – ₦250,000",
+      "unit": "per 100 tubers",
+      "nutrition": "A major carbohydrate source, high in potassium and resistant starch; lower glycaemic load than white rice.",
+      "imageUrl": "https://images.unsplash.com/photo-1618164436241-4473940d1f5c?w=400&h=300&fit=crop",
+      "isPeakSeason": false,
+      "marketCount": 53,
+      "marketIds": [
+        "NG-AB-001",
+        "NG-AB-002",
+        "NG-AD-002",
+        "NG-AK-001",
+        "NG-AK-002",
+        "NG-AN-001",
+        "NG-AN-002",
+        "NG-BAU-001",
+        "NG-BAU-002",
+        "NG-BAY-001",
+        "NG-BAY-002",
+        "NG-BEN-001",
+        "NG-BEN-002",
+        "NG-CRS-001",
+        "NG-CRS-002",
+        "NG-DEL-001",
+        "NG-DEL-002",
+        "NG-EBY-001",
+        "NG-EBY-002",
+        "NG-EDO-001",
+        "NG-EDO-002",
+        "NG-EKT-001",
+        "NG-EKT-002",
+        "NG-EN-001",
+        "NG-EN-002",
+        "NG-GO-001",
+        "NG-IM-001",
+        "NG-IM-002",
+        "NG-KAD-001",
+        "NG-KOG-001",
+        "NG-KOG-002",
+        "NG-KWR-001",
+        "NG-KWR-002",
+        "NG-LAG-001",
+        "NG-LAG-002",
+        "NG-NAS-001",
+        "NG-NAS-002",
+        "NG-NIG-001",
+        "NG-NIG-002",
+        "NG-OGN-001",
+        "NG-OGN-002",
+        "NG-OND-001",
+        "NG-OND-002",
+        "NG-OSU-001",
+        "NG-OSU-002",
+        "NG-OYO-001",
+        "NG-OYO-002",
+        "NG-PLA-001",
+        "NG-PLA-002",
+        "NG-RIV-001",
+        "NG-RIV-002",
+        "NG-TAR-001",
+        "NG-TAR-002"
+      ],
+      "peakMonths": [
+        11,
+        12,
+        1
+      ],
+      "peakMonthsLabel": "November, December, January",
+      "inSeasonMonths": [
+        10,
+        2,
+        3
+      ],
+      "inSeasonMonthsLabel": "October, February, March",
+      "offSeasonMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "off-season",
+      "optional": {
+        "selectAtMarket": "Judge by weight and sound — a good tuber is heavy for its size and rings solid when tapped. Avoid soft ends, sprouting eyes and dark surface lesions.",
+        "optimalStorage": "Store tubers upright in a dark, ventilated barn or rack, never stacked flat on bare floor; a dry, airy store holds yam for 3-6 months.",
+        "nutritionalHighlight": "A major carbohydrate source, high in potassium and resistant starch; lower glycaemic load than white rice."
+      }
+    },
+    {
+      "produceId": "cowpea-beans",
+      "id": "cowpea-beans",
+      "name": "Beans (Cowpea)",
+      "botanicalName": "Vigna unguiculata",
+      "localName": "Ewa",
+      "category": "Grains & Pulses",
+      "description": "Dried cowpea sold by the bag, the country's main plant protein and the base of moi moi and akara.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per 100kg bag",
+        "min": 60000,
+        "max": 180000,
+        "display": "₦60,000 – ₦180,000 per 100kg bag"
+      },
+      "priceRange": "₦60,000 – ₦180,000",
+      "unit": "per 100kg bag",
+      "nutrition": "Excellent plant protein and fibre, plus iron and folate; soaking before cooking reduces the flatulence compounds.",
+      "imageUrl": "https://images.unsplash.com/photo-1595515106969-1ce29566ff2c?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
+      "marketCount": 46,
+      "marketIds": [
+        "NG-AB-001",
+        "NG-AB-002",
+        "NG-AD-001",
+        "NG-AD-002",
+        "NG-AN-001",
+        "NG-AN-002",
+        "NG-BAU-001",
+        "NG-BAU-002",
+        "NG-BEN-001",
+        "NG-BEN-002",
+        "NG-BOR-001",
+        "NG-BOR-002",
+        "NG-DEL-001",
+        "NG-DEL-002",
+        "NG-EBY-001",
+        "NG-EBY-002",
+        "NG-EKT-001",
+        "NG-GO-001",
+        "NG-GO-002",
+        "NG-JI-001",
+        "NG-KAD-001",
+        "NG-KAN-001",
+        "NG-KAN-002",
+        "NG-KAT-001",
+        "NG-KEB-001",
+        "NG-KEB-002",
+        "NG-KOG-001",
+        "NG-KOG-002",
+        "NG-KWR-001",
+        "NG-KWR-002",
+        "NG-NAS-002",
+        "NG-NIG-001",
+        "NG-NIG-002",
+        "NG-OGN-001",
+        "NG-OGN-002",
+        "NG-OSU-002",
+        "NG-OYO-001",
+        "NG-OYO-002",
+        "NG-PLA-002",
+        "NG-SOK-001",
+        "NG-SOK-002",
+        "NG-TAR-001",
+        "NG-YO-001",
+        "NG-YO-002",
+        "NG-ZA-001",
+        "NG-ZA-002"
+      ],
+      "peakMonths": [
+        11,
+        12,
+        1
+      ],
+      "peakMonthsLabel": "November, December, January",
+      "inSeasonMonths": [
+        10,
+        2,
+        3
+      ],
+      "inSeasonMonthsLabel": "October, February, March",
+      "offSeasonMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "off-season",
+      "optional": {
+        "selectAtMarket": "Shake the bag — loose dust means weevil damage. Grain should be uniform, hard and free of holes; press a handful, it should not crumble.",
+        "optimalStorage": "Store dry in an airtight drum or double-bagged sack with a little dried pepper or ash to deter weevils; keeps 6-12 months if kept bone dry.",
+        "nutritionalHighlight": "Excellent plant protein and fibre, plus iron and folate; soaking before cooking reduces the flatulence compounds."
+      }
+    },
+    {
+      "produceId": "rice",
+      "id": "rice",
+      "name": "Rice",
+      "botanicalName": "Oryza sativa",
+      "localName": "Shinkafa / Iresi",
+      "category": "Grains & Pulses",
+      "description": "Local parboiled rice sold in 50kg bags, from the Kebbi, Ebonyi and Niger river basins.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per 50kg bag",
+        "min": 35000,
+        "max": 90000,
+        "display": "₦35,000 – ₦90,000 per 50kg bag"
+      },
+      "priceRange": "₦35,000 – ₦90,000",
+      "unit": "per 50kg bag",
+      "nutrition": "Main energy staple; local parboiled rice retains more B vitamins than fully polished white rice.",
+      "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
+      "marketCount": 40,
+      "marketIds": [
+        "NG-AB-001",
+        "NG-AB-002",
+        "NG-AD-001",
+        "NG-AD-002",
+        "NG-AN-001",
+        "NG-AN-002",
+        "NG-BAU-001",
+        "NG-BAU-002",
+        "NG-BEN-001",
+        "NG-BEN-002",
+        "NG-BOR-001",
+        "NG-BOR-002",
+        "NG-DEL-001",
+        "NG-DEL-002",
+        "NG-EBY-001",
+        "NG-EBY-002",
+        "NG-EKT-001",
+        "NG-JI-001",
+        "NG-KAD-001",
+        "NG-KAN-001",
+        "NG-KAN-002",
+        "NG-KAT-001",
+        "NG-KAT-002",
+        "NG-KEB-001",
+        "NG-KEB-002",
+        "NG-KOG-001",
+        "NG-KOG-002",
+        "NG-KWR-001",
+        "NG-KWR-002",
+        "NG-NAS-002",
+        "NG-NIG-001",
+        "NG-NIG-002",
+        "NG-OGN-001",
+        "NG-OGN-002",
+        "NG-OSU-002",
+        "NG-OYO-001",
+        "NG-OYO-002",
+        "NG-PLA-002",
+        "NG-SOK-001",
+        "NG-TAR-001"
+      ],
+      "peakMonths": [
+        11,
+        12
+      ],
+      "peakMonthsLabel": "November, December",
+      "inSeasonMonths": [
+        10,
+        1,
+        2
+      ],
+      "inSeasonMonthsLabel": "October, January, February",
+      "offSeasonMonths": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "off-season",
+      "optional": {
+        "selectAtMarket": "Look for whole, translucent grains with few broken pieces. Musty smell or yellowing indicates poor drying or old stock.",
+        "optimalStorage": "Keep in a dry, airtight container off the floor; a dry store holds milled rice for a year, but humid storage invites mould fast.",
+        "nutritionalHighlight": "Main energy staple; local parboiled rice retains more B vitamins than fully polished white rice."
+      }
+    },
+    {
+      "produceId": "onion",
+      "id": "onion",
+      "name": "Onions",
+      "botanicalName": "Allium cepa",
+      "localName": "Alubosa",
+      "category": "Vegetables",
+      "description": "Sold in 100kg bags, mostly from Sokoto and Kebbi. A dry-season staple that stores for months with the right handling.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per 100kg bag",
+        "min": 50000,
+        "max": 200000,
+        "display": "₦50,000 – ₦200,000 per 100kg bag"
+      },
+      "priceRange": "₦50,000 – ₦200,000",
+      "unit": "per 100kg bag",
+      "nutrition": "Contains quercetin and organosulphur compounds; a useful source of vitamin C and fibre.",
+      "imageUrl": "https://images.unsplash.com/photo-1618512496248-a07fe83aa8cb?w=400&h=300&fit=crop",
+      "isPeakSeason": false,
+      "marketCount": 37,
+      "marketIds": [
+        "NG-AB-002",
+        "NG-AD-001",
+        "NG-AK-002",
+        "NG-AN-001",
+        "NG-AN-002",
+        "NG-BAU-001",
+        "NG-BAU-002",
+        "NG-BOR-001",
+        "NG-BOR-002",
+        "NG-EDO-002",
+        "NG-EN-001",
+        "NG-EN-002",
+        "NG-GO-001",
+        "NG-GO-002",
+        "NG-IM-001",
+        "NG-IM-002",
+        "NG-JI-001",
+        "NG-KAD-001",
+        "NG-KAD-002",
+        "NG-KAN-002",
+        "NG-KAT-001",
+        "NG-KEB-001",
+        "NG-KEB-002",
+        "NG-LAG-001",
+        "NG-LAG-002",
+        "NG-OND-001",
+        "NG-OND-002",
+        "NG-OSU-001",
+        "NG-OSU-002",
+        "NG-OYO-001",
+        "NG-PLA-002",
+        "NG-SOK-001",
+        "NG-SOK-002",
+        "NG-YO-001",
+        "NG-YO-002",
+        "NG-ZA-001",
+        "NG-ZA-002"
+      ],
+      "peakMonths": [
+        2,
+        3,
+        4
+      ],
+      "peakMonthsLabel": "February, March, April",
+      "inSeasonMonths": [
+        1,
+        5,
+        11,
+        12
+      ],
+      "inSeasonMonthsLabel": "January, May, November, December",
+      "offSeasonMonths": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "off-season",
+      "optional": {
+        "selectAtMarket": "Firm bulbs with dry, papery skins and no green shoots. A soft neck or a damp base means it is already spoiling.",
+        "optimalStorage": "Cure in shade for two weeks, then store in a net or slatted crate with airflow. Never seal in polythene — trapped moisture rots the whole lot.",
+        "nutritionalHighlight": "Contains quercetin and organosulphur compounds; a useful source of vitamin C and fibre."
+      }
+    },
+    {
+      "produceId": "cassava",
+      "id": "cassava",
+      "name": "Cassava",
+      "botanicalName": "Manihot esculenta",
+      "localName": "Ege / Gari",
+      "category": "Tubers & Roots",
+      "description": "Fresh roots sold by the hundred and processed almost immediately into garri, fufu and chips.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per 100 tubers",
+        "min": 30000,
+        "max": 120000,
+        "display": "₦30,000 – ₦120,000 per 100 tubers"
+      },
+      "priceRange": "₦30,000 – ₦120,000",
+      "unit": "per 100 tubers",
+      "nutrition": "High in carbohydrate and vitamin C; must always be properly processed, as raw cassava contains cyanogenic compounds.",
+      "imageUrl": "https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?w=400&h=300&fit=crop",
+      "isPeakSeason": false,
+      "marketCount": 27,
+      "marketIds": [
+        "NG-AB-002",
+        "NG-AK-001",
+        "NG-AK-002",
+        "NG-BAY-001",
+        "NG-BAY-002",
+        "NG-BEN-001",
+        "NG-BEN-002",
+        "NG-CRS-001",
+        "NG-CRS-002",
+        "NG-DEL-001",
+        "NG-DEL-002",
+        "NG-EBY-001",
+        "NG-EBY-002",
+        "NG-EDO-001",
+        "NG-EKT-001",
+        "NG-EKT-002",
+        "NG-IM-002",
+        "NG-KOG-001",
+        "NG-KOG-002",
+        "NG-KWR-001",
+        "NG-KWR-002",
+        "NG-NAS-002",
+        "NG-NIG-001",
+        "NG-NIG-002",
+        "NG-RIV-001",
+        "NG-RIV-002",
+        "NG-TAR-002"
+      ],
+      "peakMonths": [
+        10,
+        11,
+        12
+      ],
+      "peakMonthsLabel": "October, November, December",
+      "inSeasonMonths": [
+        9,
+        1,
+        2
+      ],
+      "inSeasonMonthsLabel": "September, January, February",
+      "offSeasonMonths": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "in-season",
+      "optional": {
+        "selectAtMarket": "Choose hard, heavy roots with intact skin. A soft, waxy feel or blue-black streaks means the root has begun to rot.",
+        "optimalStorage": "Roots spoil within 48 hours of harvest — process into garri, fufu or chips immediately. Store processed garri dry in sacks for months.",
+        "nutritionalHighlight": "High in carbohydrate and vitamin C; must always be properly processed, as raw cassava contains cyanogenic compounds."
+      }
+    },
+    {
+      "produceId": "plantain",
+      "id": "plantain",
+      "name": "Plantain",
+      "botanicalName": "Musa paradisiaca",
+      "localName": "Ogede",
+      "category": "Fruits",
+      "description": "Sold by the bunch, unripe for frying and ripe for boiling. A year-round staple with a sharp seasonal price curve.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per bunch",
+        "min": 3000,
+        "max": 15000,
+        "display": "₦3,000 – ₦15,000 per bunch"
+      },
+      "priceRange": "₦3,000 – ₦15,000",
+      "unit": "per bunch",
+      "nutrition": "Rich in potassium, vitamin A and fiber. Lower glycemic index than ripe bananas.",
+      "imageUrl": "https://images.unsplash.com/photo-1587743243379-990d973519b4?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
+      "marketCount": 22,
+      "marketIds": [
+        "NG-AK-001",
+        "NG-AK-002",
+        "NG-BAY-001",
+        "NG-BAY-002",
+        "NG-CRS-001",
+        "NG-CRS-002",
+        "NG-DEL-001",
+        "NG-DEL-002",
+        "NG-EDO-001",
+        "NG-EDO-002",
+        "NG-EKT-002",
+        "NG-EN-001",
+        "NG-IM-001",
+        "NG-IM-002",
+        "NG-KOG-001",
+        "NG-LAG-001",
+        "NG-LAG-002",
+        "NG-OND-001",
+        "NG-OND-002",
+        "NG-OSU-001",
+        "NG-RIV-001",
+        "NG-RIV-002"
+      ],
+      "peakMonths": [
+        8,
+        9,
+        10
+      ],
+      "peakMonthsLabel": "August, September, October",
+      "inSeasonMonths": [
+        7,
+        11,
+        12
+      ],
+      "inSeasonMonthsLabel": "July, November, December",
+      "offSeasonMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "peak",
+      "optional": {
+        "selectAtMarket": "Pick by intended use — green and hard for frying, yellow with black speckles for boiling and roasting. Reject bruised or mouldy tips.",
+        "optimalStorage": "Keep at room temperature and let it ripen naturally; refrigeration halts ripening and turns the flesh grey. Ripening can be slowed by separating the fingers.",
+        "nutritionalHighlight": "Good source of potassium, vitamin B6 and resistant starch when green."
+      }
+    },
+    {
+      "produceId": "garri",
+      "id": "garri",
+      "name": "Garri",
+      "botanicalName": "Manihot esculenta (processed)",
+      "localName": "Garri",
+      "category": "Processed Staples",
+      "description": "Fermented cassava grits in 50kg bags, the most widely stored staple food in the south.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per 50kg bag",
+        "min": 30000,
+        "max": 80000,
+        "display": "₦30,000 – ₦80,000 per 50kg bag"
+      },
+      "priceRange": "₦30,000 – ₦80,000",
+      "unit": "per 50kg bag",
+      "nutrition": "Fermented cassava product, energy-dense and low in fat; pair with protein-rich soup to balance the meal.",
+      "imageUrl": "https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?w=400&h=300&fit=crop",
+      "isPeakSeason": false,
+      "marketCount": 16,
+      "marketIds": [
+        "NG-AB-001",
+        "NG-AN-001",
+        "NG-AN-002",
+        "NG-BEN-002",
+        "NG-EBY-001",
+        "NG-EBY-002",
+        "NG-EKT-001",
+        "NG-EN-001",
+        "NG-EN-002",
+        "NG-LAG-002",
+        "NG-OGN-001",
+        "NG-OND-001",
+        "NG-OSU-001",
+        "NG-OSU-002",
+        "NG-OYO-001",
+        "NG-OYO-002"
+      ],
+      "peakMonths": [
+        11,
+        12,
+        1
+      ],
+      "peakMonthsLabel": "November, December, January",
+      "inSeasonMonths": [
+        10,
+        2,
+        3,
+        4
+      ],
+      "inSeasonMonthsLabel": "October, February, March, April",
+      "offSeasonMonths": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "off-season",
+      "optional": {
+        "selectAtMarket": "Fine, dry and evenly coloured, with no sour or mouldy smell. Squeeze a handful — it should sift, not clump.",
+        "optimalStorage": "Keep in an airtight container in a dry room; moisture turns garri sour within weeks. A dry sack holds good quality for 6 months.",
+        "nutritionalHighlight": "Fermented cassava product, energy-dense and low in fat; pair with protein-rich soup to balance the meal."
+      }
+    },
+    {
+      "produceId": "millet",
+      "id": "millet",
+      "name": "Millet",
+      "botanicalName": "Pennisetum glaucum",
+      "localName": "Gero",
+      "category": "Grains & Pulses",
+      "description": "Drought-tolerant grain sold by the bag, milled into flour for porridge and local drinks.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per 100kg bag",
+        "min": 55000,
+        "max": 150000,
+        "display": "₦55,000 – ₦150,000 per 100kg bag"
+      },
+      "priceRange": "₦55,000 – ₦150,000",
+      "unit": "per 100kg bag",
+      "nutrition": "High in fibre, B vitamins and minerals like iron and magnesium. Gluten-free and easily digestible.",
+      "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
+      "marketCount": 16,
+      "marketIds": [
+        "NG-AD-001",
+        "NG-AD-002",
+        "NG-BOR-001",
+        "NG-BOR-002",
+        "NG-JI-001",
+        "NG-KAD-001",
+        "NG-KAN-001",
+        "NG-KAT-001",
+        "NG-KAT-002",
+        "NG-KEB-001",
+        "NG-KEB-002",
+        "NG-NAS-001",
+        "NG-NIG-002",
+        "NG-SOK-001",
+        "NG-YO-001",
+        "NG-YO-002"
+      ],
+      "peakMonths": [
+        10,
+        11
+      ],
+      "peakMonthsLabel": "October, November",
+      "inSeasonMonths": [
+        9,
+        12,
+        1
+      ],
+      "inSeasonMonthsLabel": "September, December, January",
+      "offSeasonMonths": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "in-season",
+      "optional": {
+        "selectAtMarket": "Look for small, uniform, golden grains with no dust or grit. A bitter taste after milling may mean poor cleaning.",
+        "optimalStorage": "Extremely drought-tolerant grain that also stores well — keep dry and airtight in a cool room for up to a year.",
+        "nutritionalHighlight": "Gluten-free, high in magnesium and iron; a low-glycaemic grain suited to diabetic diets."
+      }
+    },
+    {
+      "produceId": "maize",
+      "id": "maize",
+      "name": "Maize",
+      "botanicalName": "Zea mays",
+      "localName": "Agbado",
+      "category": "Grains & Pulses",
+      "description": "Sold dry in 100kg bags and fresh on the cob in season, the country's core cereal.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per 100kg bag",
+        "min": 45000,
+        "max": 130000,
+        "display": "₦45,000 – ₦130,000 per 100kg bag"
+      },
+      "priceRange": "₦45,000 – ₦130,000",
+      "unit": "per 100kg bag",
+      "nutrition": "Rich in carbohydrates, B vitamins and fibre. Contains lutein and zeaxanthin for eye health.",
+      "imageUrl": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
+      "marketCount": 15,
+      "marketIds": [
+        "NG-AD-001",
+        "NG-AD-002",
+        "NG-BAU-002",
+        "NG-KAN-001",
+        "NG-KAT-001",
+        "NG-KAT-002",
+        "NG-KEB-001",
+        "NG-KEB-002",
+        "NG-KWR-001",
+        "NG-KWR-002",
+        "NG-NAS-002",
+        "NG-NIG-001",
+        "NG-NIG-002",
+        "NG-PLA-001",
+        "NG-TAR-001"
+      ],
+      "peakMonths": [
+        8,
+        9,
+        10
+      ],
+      "peakMonthsLabel": "August, September, October",
+      "inSeasonMonths": [
+        7,
+        11
+      ],
+      "inSeasonMonthsLabel": "July, November",
+      "offSeasonMonths": [
+        12,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "peak",
+      "optional": {
+        "selectAtMarket": "Grain should be hard, bright and free of mould. A musty or sour smell is a serious quality failure — do not buy it.",
+        "optimalStorage": "Dry to below 13% moisture before bagging, then store with an approved grain protectant; damp grain develops aflatoxin quickly.",
+        "nutritionalHighlight": "Energy staple rich in B vitamins and lutein; nixtamalisation or fermentation improves nutrient availability."
+      }
+    },
+    {
+      "produceId": "sorghum",
+      "id": "sorghum",
+      "name": "Sorghum (Guinea Corn)",
+      "botanicalName": "Sorghum bicolor",
+      "localName": "Dawa",
+      "category": "Grains & Pulses",
+      "description": "Guinea corn, sold by the bag for flour, pap and traditional brewing.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per 100kg bag",
+        "min": 50000,
+        "max": 140000,
+        "display": "₦50,000 – ₦140,000 per 100kg bag"
+      },
+      "priceRange": "₦50,000 – ₦140,000",
+      "unit": "per 100kg bag",
+      "nutrition": "High in fibre, protein and antioxidants. Gluten-free and good for heart health.",
+      "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
+      "marketCount": 15,
+      "marketIds": [
+        "NG-AD-001",
+        "NG-AD-002",
+        "NG-BOR-001",
+        "NG-BOR-002",
+        "NG-JI-001",
+        "NG-KAN-001",
+        "NG-KAT-001",
+        "NG-KAT-002",
+        "NG-KEB-001",
+        "NG-KEB-002",
+        "NG-NAS-001",
+        "NG-NIG-002",
+        "NG-SOK-001",
+        "NG-YO-001",
+        "NG-YO-002"
+      ],
+      "peakMonths": [
+        10,
+        11
+      ],
+      "peakMonthsLabel": "October, November",
+      "inSeasonMonths": [
+        9,
+        12,
+        1
+      ],
+      "inSeasonMonthsLabel": "September, December, January",
+      "offSeasonMonths": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "in-season",
+      "optional": {
+        "selectAtMarket": "Uniform red-brown grain, hard and free from mould. Reject any grain with a pink or dark discolouration.",
+        "optimalStorage": "Store dry and airtight; sorghum holds 8-12 months in a cool, low-humidity store.",
+        "nutritionalHighlight": "Gluten-free and rich in antioxidants; traditionally brewed into local drinks and porridges."
+      }
+    },
+    {
+      "produceId": "groundnut",
+      "id": "groundnut",
+      "name": "Groundnuts",
+      "botanicalName": "Arachis hypogaea",
+      "localName": "Gyada",
+      "category": "Nuts & Oils",
+      "description": "Sold shelled by the bag and pressed for oil; a major northern cash crop.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per 100kg bag",
+        "min": 80000,
+        "max": 220000,
+        "display": "₦80,000 – ₦220,000 per 100kg bag"
+      },
+      "priceRange": "₦80,000 – ₦220,000",
+      "unit": "per 100kg bag",
+      "nutrition": "Excellent source of plant protein, healthy fats, vitamin E and magnesium. Good for heart health.",
+      "imageUrl": "https://images.unsplash.com/photo-1590271159935-301359538c19?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
+      "marketCount": 14,
+      "marketIds": [
+        "NG-GO-001",
+        "NG-GO-002",
+        "NG-JI-001",
+        "NG-KAN-001",
+        "NG-KAN-002",
+        "NG-KAT-001",
+        "NG-KEB-001",
+        "NG-SOK-001",
+        "NG-SOK-002",
+        "NG-TAR-002",
+        "NG-YO-001",
+        "NG-YO-002",
+        "NG-ZA-001",
+        "NG-ZA-002"
+      ],
+      "peakMonths": [
+        9,
+        10,
+        11
+      ],
+      "peakMonthsLabel": "September, October, November",
+      "inSeasonMonths": [
+        8,
+        12
+      ],
+      "inSeasonMonthsLabel": "August, December",
+      "offSeasonMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "peak",
+      "optional": {
+        "selectAtMarket": "Choose well-filled, rattling shells and clean, unpitted kernels. Dry, blackened or bitter kernels must be discarded.",
+        "optimalStorage": "Store shelled nuts in a dry, cool place — never damp, as aflatoxin risk rises sharply with moisture. Airtight drums hold quality for 6 months.",
+        "nutritionalHighlight": "Protein, healthy fats, vitamin E and magnesium; a valuable oilseed as well as a snack."
+      }
+    },
+    {
+      "produceId": "fresh-fish",
+      "id": "fresh-fish",
+      "name": "Fresh Fish",
+      "botanicalName": "Various species",
+      "localName": "Kifi",
+      "category": "Fish & Seafood",
+      "description": "Sold fresh by the kilogram from ponds, rivers and coastal landings.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per kg",
+        "min": 1500,
+        "max": 6000,
+        "display": "₦1,500 – ₦6,000 per kg"
+      },
+      "priceRange": "₦1,500 – ₦6,000",
+      "unit": "per kg",
+      "nutrition": "Lean protein, omega-3 fatty acids and iodine; a key micronutrient source for growing children.",
+      "imageUrl": "https://images.unsplash.com/photo-1534604973900-c43ab4c2e0ab?w=400&h=300&fit=crop",
+      "isPeakSeason": false,
+      "marketCount": 10,
+      "marketIds": [
+        "NG-AK-001",
+        "NG-AK-002",
+        "NG-BAY-001",
+        "NG-BAY-002",
+        "NG-CRS-002",
+        "NG-IM-001",
+        "NG-JI-002",
+        "NG-KEB-002",
+        "NG-OGN-002",
+        "NG-RIV-002"
+      ],
+      "peakMonths": [
+        3,
+        4,
+        5
+      ],
+      "peakMonthsLabel": "March, April, May",
+      "inSeasonMonths": [
+        2,
+        6,
+        7,
+        11,
+        12
+      ],
+      "inSeasonMonthsLabel": "February, June, July, November, December",
+      "offSeasonMonths": [
+        1,
+        8,
+        9,
+        10
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "off-season",
+      "optional": {
+        "selectAtMarket": "Bright, bulging eyes, red gills, firm springy flesh and a clean sea smell. Sunken eyes or a slimy surface mean it is past its best.",
+        "optimalStorage": "Keep on ice from purchase to kitchen; rinse in clean water and cook or smoke within 24 hours. Never refreeze thawed fish.",
+        "nutritionalHighlight": "Lean protein, omega-3 fatty acids and iodine; a key micronutrient source for growing children."
+      }
+    },
+    {
+      "produceId": "banana",
+      "name": "Banana",
+      "localName": "Ayaba",
+      "category": "Fruits",
+      "description": "Sweet eating banana sold by the bunch alongside plantain in southern markets.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per bunch",
+        "min": 2500,
+        "max": 12000,
+        "display": "₦2,500 – ₦12,000 per bunch"
+      },
+      "marketCount": 4,
+      "marketIds": [
+        "NG-AK-001",
+        "NG-CRS-001",
+        "NG-LAG-001",
+        "NG-RIV-001"
+      ],
+      "peakMonths": [
+        8,
+        9,
+        10
+      ],
+      "peakMonthsLabel": "August, September, October",
+      "inSeasonMonths": [
+        7,
+        11,
+        12
+      ],
+      "inSeasonMonthsLabel": "July, November, December",
+      "offSeasonMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "peak",
+      "optional": {
+        "selectAtMarket": "Plump, evenly coloured fruit, firm but yielding to gentle pressure, with intact stems and no dark bruising.",
+        "optimalStorage": "Ripen at room temperature, then refrigerate for 2-3 days to hold sweetness; the skin darkens in cold but the flesh stays good.",
+        "nutritionalHighlight": "Potassium, vitamin B6 and vitamin C; sugar content rises sharply as the fruit ripens."
+      }
+    },
+    {
+      "produceId": "smoked-fish",
+      "name": "Smoked / Dried Fish",
+      "localName": "Kifi mai hayaki",
+      "category": "Fish & Seafood",
+      "description": "Kiln-smoked and dried fish sold by the kilogram — the preserved protein that travels to inland markets.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per kg",
+        "min": 3000,
+        "max": 12000,
+        "display": "₦3,000 – ₦12,000 per kg"
+      },
+      "marketCount": 3,
+      "marketIds": [
+        "NG-JI-002",
+        "NG-KAN-002",
+        "NG-TAR-002"
+      ],
+      "peakMonths": [
+        3,
+        4,
+        5
+      ],
+      "peakMonthsLabel": "March, April, May",
+      "inSeasonMonths": [
+        2,
+        6,
+        7,
+        11,
+        12
+      ],
+      "inSeasonMonthsLabel": "February, June, July, November, December",
+      "offSeasonMonths": [
+        1,
+        8,
+        9,
+        10
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "off-season",
+      "optional": {
+        "selectAtMarket": "Dry but slightly flexible, amber colour, smoky aroma, no white mould or insect holes.",
+        "optimalStorage": "Store in a dry, ventilated basket or hang in a cool smokehouse; keeps weeks to months but must never be stacked while warm.",
+        "nutritionalHighlight": "Concentrated protein and calcium — especially if eaten with bones — plus long-chain omega-3s."
+      }
+    },
+    {
+      "produceId": "sweet-potato",
+      "name": "Sweet Potatoes",
+      "localName": "Dankali",
+      "category": "Tubers & Roots",
+      "description": "Orange and white-fleshed roots sold by the hundred, rich in vitamin A.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per 100 tubers",
+        "min": 30000,
+        "max": 110000,
+        "display": "₦30,000 – ₦110,000 per 100 tubers"
+      },
+      "marketCount": 3,
+      "marketIds": [
+        "NG-LAG-001",
+        "NG-OSU-002",
+        "NG-PLA-002"
+      ],
+      "peakMonths": [
+        10,
+        11,
+        12
+      ],
+      "peakMonthsLabel": "October, November, December",
+      "inSeasonMonths": [
+        9,
+        1
+      ],
+      "inSeasonMonthsLabel": "September, January",
+      "offSeasonMonths": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "in-season",
+      "optional": {
+        "selectAtMarket": "Smooth, firm roots free of cuts or sprouting. Soft ends or black spots mean rot has started.",
+        "optimalStorage": "Cure for a week in a warm humid space, then store cool and dark; never refrigerate raw roots, which turns them hard and bitter.",
+        "nutritionalHighlight": "Very high in beta-carotene (orange varieties) and vitamin A — important for children's diets."
+      }
+    },
+    {
+      "produceId": "okra",
+      "name": "Okra",
+      "localName": "Ila",
+      "category": "Vegetables",
+      "description": "Tender pods sold by the basket, the thickening agent in Nigerian soups.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per basket",
+        "min": 3000,
+        "max": 15000,
+        "display": "₦3,000 – ₦15,000 per basket"
+      },
+      "marketCount": 2,
+      "marketIds": [
+        "NG-EDO-001",
+        "NG-EDO-002"
+      ],
+      "peakMonths": [
+        7,
+        8,
+        9
+      ],
+      "peakMonthsLabel": "July, August, September",
+      "inSeasonMonths": [
+        6,
+        10,
+        11
+      ],
+      "inSeasonMonthsLabel": "June, October, November",
+      "offSeasonMonths": [
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "peak",
+      "optional": {
+        "selectAtMarket": "Small, firm, snap-crisp pods with no browning at the tips — large dull pods are woody.",
+        "optimalStorage": "Use within 2-3 days; a dry cloth bag in the coolest part of the kitchen slows the softening. Do not wash until cooking.",
+        "nutritionalHighlight": "Rich in mucilage and folate; the pods are a good source of vitamin K and fibre."
+      }
+    },
+    {
+      "produceId": "ugu-pumpkin-leaf",
+      "name": "Ugu (Pumpkin Leaf)",
+      "localName": "Ugu",
+      "category": "Leafy Vegetables",
+      "description": "Fluted pumpkin leaf sold in bundles, the most used leafy vegetable in southern cooking.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per bundle",
+        "min": 500,
+        "max": 3000,
+        "display": "₦500 – ₦3,000 per bundle"
+      },
+      "marketCount": 2,
+      "marketIds": [
+        "NG-KAD-002",
+        "NG-OND-002"
+      ],
+      "peakMonths": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "peakMonthsLabel": "March, April, May, June",
+      "inSeasonMonths": [
+        2,
+        7,
+        8
+      ],
+      "inSeasonMonthsLabel": "February, July, August",
+      "offSeasonMonths": [
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "off-season",
+      "optional": {
+        "selectAtMarket": "Deep green, unblemished leaves with crisp stems. Yellowing or wilting means they were cut too long ago.",
+        "optimalStorage": "Wrap in a slightly damp cloth in the fridge for up to 4 days; blanching and drying holds them for months.",
+        "nutritionalHighlight": "High in beta-carotene, vitamin C and iron; the seeds are traditionally used as a vermifuge."
+      }
+    },
+    {
+      "produceId": "waterleaf",
+      "name": "Waterleaf",
+      "localName": "Gbure",
+      "category": "Leafy Vegetables",
+      "description": "Soft, watery leaf sold in bundles and cooked within a day or two of harvest.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per bundle",
+        "min": 500,
+        "max": 2500,
+        "display": "₦500 – ₦2,500 per bundle"
+      },
+      "marketCount": 2,
+      "marketIds": [
+        "NG-KAD-002",
+        "NG-OND-002"
+      ],
+      "peakMonths": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "peakMonthsLabel": "April, May, June, July",
+      "inSeasonMonths": [
+        3,
+        8
+      ],
+      "inSeasonMonthsLabel": "March, August",
+      "offSeasonMonths": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "off-season",
+      "optional": {
+        "selectAtMarket": "Tender, glossy, deep-green leaves on thin stems; the leaf should feel moist, not slimy.",
+        "optimalStorage": "Very perishable — use within a day or two. Wrap in a damp cloth in the fridge, or blanch and freeze.",
+        "nutritionalHighlight": "Hydrating and a good source of vitamin C, calcium and iron."
+      }
+    },
+    {
+      "produceId": "soybeans",
+      "name": "Soybeans",
+      "localName": "Soya",
+      "category": "Grains & Pulses",
+      "description": "Sold by the bag for oil, flour and livestock feed.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per 100kg bag",
+        "min": 70000,
+        "max": 180000,
+        "display": "₦70,000 – ₦180,000 per 100kg bag"
+      },
+      "marketCount": 2,
+      "marketIds": [
+        "NG-KAN-001",
+        "NG-NAS-001"
+      ],
+      "peakMonths": [
+        10,
+        11
+      ],
+      "peakMonthsLabel": "October, November",
+      "inSeasonMonths": [
+        9,
+        12
+      ],
+      "inSeasonMonthsLabel": "September, December",
+      "offSeasonMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "in-season",
+      "optional": {
+        "selectAtMarket": "Uniform, cream-coloured, hard beans free of splits and mould. Reject any with a musty smell.",
+        "optimalStorage": "Store dry and airtight; soy keeps well for 9-12 months in a cool, low-humidity store.",
+        "nutritionalHighlight": "Complete plant protein, plus isoflavones and healthy polyunsaturated fats."
+      }
+    },
+    {
+      "produceId": "crayfish",
+      "name": "Crayfish",
+      "localName": "Wuyah",
+      "category": "Fish & Seafood",
+      "description": "Dried and ground crayfish sold by the kilogram as a soup flavour base.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per kg",
+        "min": 6000,
+        "max": 20000,
+        "display": "₦6,000 – ₦20,000 per kg"
+      },
+      "marketCount": 1,
+      "marketIds": [
+        "NG-EDO-001"
+      ],
+      "peakMonths": [
+        3,
+        4,
+        5
+      ],
+      "peakMonthsLabel": "March, April, May",
+      "inSeasonMonths": [
+        2,
+        6,
+        11,
+        12
+      ],
+      "inSeasonMonthsLabel": "February, June, November, December",
+      "offSeasonMonths": [
+        1,
+        7,
+        8,
+        9,
+        10
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "off-season",
+      "optional": {
+        "selectAtMarket": "Dry, pinkish-orange, crumbly with a strong savoury aroma. Off-white colour or a musty smell means age.",
+        "optimalStorage": "Keep in an airtight jar away from moisture; dry, ground crayfish holds for months if it stays dry.",
+        "nutritionalHighlight": "Concentrated protein, calcium and iodine; used as a flavour base across Nigerian soups."
+      }
+    },
+    {
+      "produceId": "bitter-leaf",
+      "name": "Bitter Leaf",
+      "localName": "Ewuro",
+      "category": "Leafy Vegetables",
+      "description": "Sold in bundles and washed to temper its bitterness; central to bitterleaf soup.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per bundle",
+        "min": 500,
+        "max": 3000,
+        "display": "₦500 – ₦3,000 per bundle"
+      },
+      "marketCount": 1,
+      "marketIds": [
+        "NG-KAD-002"
+      ],
+      "peakMonths": [
+        4,
+        5,
+        6
+      ],
+      "peakMonthsLabel": "April, May, June",
+      "inSeasonMonths": [
+        3,
+        7,
+        8
+      ],
+      "inSeasonMonthsLabel": "March, July, August",
+      "offSeasonMonths": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "off-season",
+      "optional": {
+        "selectAtMarket": "Fresh, bright green leaves with a crisp snap. Limp or yellow leaves have lost most of their bitterness and nutrients.",
+        "optimalStorage": "Use fresh within 3 days, or wash, squeeze and freeze in portions for months.",
+        "nutritionalHighlight": "Bitter compounds with traditional medicinal use; a source of vitamin C, iron and zinc."
+      }
+    },
+    {
+      "produceId": "palm-oil",
+      "name": "Palm Oil",
+      "localName": "Mmanu Nkwu",
+      "category": "Nuts & Oils",
+      "description": "Unrefined red palm oil sold by the keg, the base fat of southern cooking.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per 25L keg",
+        "min": 25000,
+        "max": 60000,
+        "display": "₦25,000 – ₦60,000 per 25L keg"
+      },
+      "marketCount": 1,
+      "marketIds": [
+        "NG-KAD-002"
+      ],
+      "peakMonths": [
+        1,
+        2,
+        3
+      ],
+      "peakMonthsLabel": "January, February, March",
+      "inSeasonMonths": [
+        12,
+        4,
+        5
+      ],
+      "inSeasonMonthsLabel": "December, April, May",
+      "offSeasonMonths": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "off-season",
+      "optional": {
+        "selectAtMarket": "Deep red-orange colour, clean smell, no sediment layer. A pale or cloudy oil has been diluted or poorly processed.",
+        "optimalStorage": "Store in a cool, dark place in a sealed container; unrefined red palm oil keeps about 6 months before flavour fades.",
+        "nutritionalHighlight": "Rich in vitamin A precursors and vitamin E; high in saturated fat, so use in moderation."
+      }
+    },
+    {
+      "produceId": "groundnut-oil",
+      "name": "Groundnut Oil",
+      "localName": "Mai Gyada",
+      "category": "Nuts & Oils",
+      "description": "Clear, pale-gold cooking oil pressed from groundnut, sold by the keg.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per 25L keg",
+        "min": 35000,
+        "max": 80000,
+        "display": "₦35,000 – ₦80,000 per 25L keg"
+      },
+      "marketCount": 1,
+      "marketIds": [
+        "NG-KAD-002"
+      ],
+      "peakMonths": [
+        9,
+        10,
+        11
+      ],
+      "peakMonthsLabel": "September, October, November",
+      "inSeasonMonths": [
+        8,
+        12
+      ],
+      "inSeasonMonthsLabel": "August, December",
+      "offSeasonMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "peak",
+      "optional": {
+        "selectAtMarket": "Clear, pale gold, with a mild nutty smell. Cloudiness or a rancid smell means heat damage.",
+        "optimalStorage": "Keep sealed, cool and out of light; a good groundnut oil holds 6-12 months.",
+        "nutritionalHighlight": "High in monounsaturated fat and vitamin E; suited to high-heat frying."
+      }
+    },
+    {
+      "produceId": "wheat",
+      "name": "Wheat",
+      "localName": "Alkama",
+      "category": "Grains & Pulses",
+      "description": "Sold by the bag for flour milling, grown under irrigation in the north.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per 100kg bag",
+        "min": 60000,
+        "max": 160000,
+        "display": "₦60,000 – ₦160,000 per 100kg bag"
+      },
+      "marketCount": 1,
+      "marketIds": [
+        "NG-KAN-001"
+      ],
+      "peakMonths": [
+        3,
+        4
+      ],
+      "peakMonthsLabel": "March, April",
+      "inSeasonMonths": [
+        2,
+        5
+      ],
+      "inSeasonMonthsLabel": "February, May",
+      "offSeasonMonths": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "off-season",
+      "optional": {
+        "selectAtMarket": "Plump, uniform amber grain, free of stones, chaff and mould.",
+        "optimalStorage": "Store dry and airtight, protected from rodents; a cool dry room holds it 10-12 months.",
+        "nutritionalHighlight": "Gluten-containing grain, high in protein and B vitamins when whole."
+      }
+    },
+    {
+      "produceId": "sesame-beniseed",
+      "name": "Sesame Seed",
+      "localName": "Ridi",
+      "category": "Nuts & Oils",
+      "description": "Beniseed sold by the bag; a major export crop and oil source.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per 100kg bag",
+        "min": 90000,
+        "max": 250000,
+        "display": "₦90,000 – ₦250,000 per 100kg bag"
+      },
+      "marketCount": 1,
+      "marketIds": [
+        "NG-NAS-001"
+      ],
+      "peakMonths": [
+        10,
+        11,
+        12
+      ],
+      "peakMonthsLabel": "October, November, December",
+      "inSeasonMonths": [
+        9,
+        1
+      ],
+      "inSeasonMonthsLabel": "September, January",
+      "offSeasonMonths": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "in-season",
+      "optional": {
+        "selectAtMarket": "Clean, uniformly creamy-white seed with no sand or grit; it should pour freely.",
+        "optimalStorage": "Keep dry and airtight; sesame keeps up to a year and is highly resistant to insects.",
+        "nutritionalHighlight": "Rich in calcium, magnesium and healthy fats; a major Nigerian export crop."
+      }
+    },
+    {
+      "produceId": "amaranth-tete",
+      "name": "Amaranth (Tete)",
+      "localName": "Tete",
+      "category": "Leafy Vegetables",
+      "description": "Tender amaranth leaf sold in bundles, a fast-growing green used in soups and as a weaning food.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per bundle",
+        "min": 500,
+        "max": 2500,
+        "display": "₦500 – ₦2,500 per bundle"
+      },
+      "marketCount": 1,
+      "marketIds": [
+        "NG-OND-002"
+      ],
+      "peakMonths": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "peakMonthsLabel": "April, May, June, July",
+      "inSeasonMonths": [
+        3,
+        8
+      ],
+      "inSeasonMonthsLabel": "March, August",
+      "offSeasonMonths": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "off-season",
+      "optional": {
+        "selectAtMarket": "Tender leaves and soft stems, deep green with no flower buds, which signal toughness.",
+        "optimalStorage": "Cook within 2-3 days; wrap in a damp cloth and refrigerate, or blanch and freeze.",
+        "nutritionalHighlight": "High in iron, calcium and beta-carotene; a traditional weaning food."
+      }
+    },
+    {
+      "produceId": "ginger",
+      "name": "Ginger",
+      "localName": "Citta",
+      "category": "Spices & Condiments",
+      "description": "Fresh and dried rhizomes sold by the kilogram, grown mainly on the Kaduna and Plateau highlands.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per kg",
+        "min": 2000,
+        "max": 9000,
+        "display": "₦2,000 – ₦9,000 per kg"
+      },
+      "marketCount": 1,
+      "marketIds": [
+        "NG-OSU-002"
+      ],
+      "peakMonths": [
+        12,
+        1,
+        2
+      ],
+      "peakMonthsLabel": "December, January, February",
+      "inSeasonMonths": [
+        11,
+        3
+      ],
+      "inSeasonMonthsLabel": "November, March",
+      "offSeasonMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "off-season",
+      "optional": {
+        "selectAtMarket": "Firm, heavy rhizomes with tight, unwrinkled skin and a clean fresh smell. Soft or mouldy fingers should be rejected.",
+        "optimalStorage": "Fresh rhizomes keep weeks in a dry, airy spot; dried and ground, ginger holds for a year.",
+        "nutritionalHighlight": "Gingerol compounds aid digestion and nausea; strong antioxidant content."
+      }
+    },
+    {
+      "produceId": "turmeric",
+      "name": "Turmeric",
+      "localName": "Zabibi",
+      "category": "Spices & Condiments",
+      "description": "Bright orange rhizomes and powder sold by the kilogram, a smaller highland crop beside ginger.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per kg",
+        "min": 2500,
+        "max": 10000,
+        "display": "₦2,500 – ₦10,000 per kg"
+      },
+      "marketCount": 1,
+      "marketIds": [
+        "NG-OSU-002"
+      ],
+      "peakMonths": [
+        12,
+        1,
+        2
+      ],
+      "peakMonthsLabel": "December, January, February",
+      "inSeasonMonths": [
+        11,
+        3
+      ],
+      "inSeasonMonthsLabel": "November, March",
+      "offSeasonMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "off-season",
+      "optional": {
+        "selectAtMarket": "Firm rhizomes with vivid orange flesh when cut. Pale or dry flesh indicates poor quality.",
+        "optimalStorage": "Fresh rhizomes keep for weeks when dry; powder keeps a year stored dark and airtight.",
+        "nutritionalHighlight": "Curcumin is a potent anti-inflammatory; best absorbed with black pepper and fat."
+      }
+    },
+    {
+      "produceId": "irish-potato",
+      "name": "Irish Potatoes",
+      "localName": "Dankalin Turawa",
+      "category": "Tubers & Roots",
+      "description": "Temperate potato sold by the bag and grown almost entirely on the Plateau and Mambilla highlands.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per 100kg bag",
+        "min": 45000,
+        "max": 140000,
+        "display": "₦45,000 – ₦140,000 per 100kg bag"
+      },
+      "marketCount": 1,
+      "marketIds": [
+        "NG-PLA-001"
+      ],
+      "peakMonths": [
+        5,
+        6,
+        7
+      ],
+      "peakMonthsLabel": "May, June, July",
+      "inSeasonMonths": [
+        4,
+        8,
+        9
+      ],
+      "inSeasonMonthsLabel": "April, August, September",
+      "offSeasonMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "in-season",
+      "optional": {
+        "selectAtMarket": "Firm, smooth, unblemished tubers with no sprouts. Green skin or a soft feel must be rejected.",
+        "optimalStorage": "Store dark, cool and ventilated, never in light — greening makes the tuber toxic. Airtight plastic encourages rot.",
+        "nutritionalHighlight": "Good source of vitamin C and potassium; glycaemic impact drops when cooled after cooking."
+      }
+    },
+    {
+      "produceId": "carrot",
+      "name": "Carrots",
+      "localName": "Karas",
+      "category": "Vegetables",
+      "description": "Sold by the bag from northern irrigation schemes, a cool-season crop.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per bag",
+        "min": 5000,
+        "max": 25000,
+        "display": "₦5,000 – ₦25,000 per bag"
+      },
+      "marketCount": 1,
+      "marketIds": [
+        "NG-PLA-001"
+      ],
+      "peakMonths": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "peakMonthsLabel": "November, December, January, February",
+      "inSeasonMonths": [
+        10,
+        3
+      ],
+      "inSeasonMonthsLabel": "October, March",
+      "offSeasonMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "off-season",
+      "optional": {
+        "selectAtMarket": "Bright orange, firm, evenly tapered roots with no cracks or fork branching; larger is not better.",
+        "optimalStorage": "Trim the tops and refrigerate in a perforated bag for weeks; cool humid storage is essential.",
+        "nutritionalHighlight": "Very high in beta-carotene; cooking with fat improves absorption."
+      }
+    },
+    {
+      "produceId": "cabbage",
+      "name": "Cabbage",
+      "localName": "Kabeji",
+      "category": "Vegetables",
+      "description": "Tight heads sold by the head, grown on the highlands around Jos.",
+      "price": {
+        "currency": "NGN",
+        "unit": "per head",
+        "min": 1000,
+        "max": 5000,
+        "display": "₦1,000 – ₦5,000 per head"
+      },
+      "marketCount": 1,
+      "marketIds": [
+        "NG-PLA-001"
+      ],
+      "peakMonths": [
+        11,
+        12,
+        1
+      ],
+      "peakMonthsLabel": "November, December, January",
+      "inSeasonMonths": [
+        10,
+        2,
+        3
+      ],
+      "inSeasonMonthsLabel": "October, February, March",
+      "offSeasonMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "seasonNote": "Nigerian harvest pattern; northern irrigated belts extend tomato, onion and carrot availability into the dry season.",
+      "currentSeasonStatus": "off-season",
+      "optional": {
+        "selectAtMarket": "Tight, heavy, compact heads with crisp outer leaves. Loose or puffy heads are past their peak.",
+        "optimalStorage": "Refrigerate whole for up to two weeks; once cut, wrap tightly and use within days.",
+        "nutritionalHighlight": "Vitamin C, vitamin K and glucosinolate compounds; low in calories."
+      }
+    }
+  ],
+  "monthCalendar": {
+    "1": {
+      "month": "January",
+      "peak": [
+        {
+          "produceId": "tomato",
+          "name": "Tomatoes"
+        },
+        {
+          "produceId": "yam",
+          "name": "Yam"
+        },
+        {
+          "produceId": "cowpea-beans",
+          "name": "Beans (Cowpea)"
+        },
+        {
+          "produceId": "garri",
+          "name": "Garri"
+        },
+        {
+          "produceId": "palm-oil",
+          "name": "Palm Oil"
+        },
+        {
+          "produceId": "ginger",
+          "name": "Ginger"
+        },
+        {
+          "produceId": "turmeric",
+          "name": "Turmeric"
+        },
+        {
+          "produceId": "carrot",
+          "name": "Carrots"
+        },
+        {
+          "produceId": "cabbage",
+          "name": "Cabbage"
+        }
+      ],
+      "inSeason": [
+        {
+          "produceId": "chilli-pepper",
+          "name": "Pepper (Chilli / Tatase)"
+        },
+        {
+          "produceId": "rice",
+          "name": "Rice"
+        },
+        {
+          "produceId": "onion",
+          "name": "Onions"
+        },
+        {
+          "produceId": "cassava",
+          "name": "Cassava"
+        },
+        {
+          "produceId": "millet",
+          "name": "Millet"
+        },
+        {
+          "produceId": "sorghum",
+          "name": "Sorghum (Guinea Corn)"
+        },
+        {
+          "produceId": "sweet-potato",
+          "name": "Sweet Potatoes"
+        },
+        {
+          "produceId": "sesame-beniseed",
+          "name": "Sesame Seed"
+        }
+      ],
+      "offSeason": [
+        {
+          "produceId": "plantain",
+          "name": "Plantain"
+        },
+        {
+          "produceId": "maize",
+          "name": "Maize"
+        },
+        {
+          "produceId": "groundnut",
+          "name": "Groundnuts"
+        },
+        {
+          "produceId": "fresh-fish",
+          "name": "Fresh Fish"
+        },
+        {
+          "produceId": "banana",
+          "name": "Banana"
+        },
+        {
+          "produceId": "smoked-fish",
+          "name": "Smoked / Dried Fish"
+        },
+        {
+          "produceId": "okra",
+          "name": "Okra"
+        },
+        {
+          "produceId": "ugu-pumpkin-leaf",
+          "name": "Ugu (Pumpkin Leaf)"
+        },
+        {
+          "produceId": "waterleaf",
+          "name": "Waterleaf"
+        },
+        {
+          "produceId": "soybeans",
+          "name": "Soybeans"
+        },
+        {
+          "produceId": "crayfish",
+          "name": "Crayfish"
+        },
+        {
+          "produceId": "bitter-leaf",
+          "name": "Bitter Leaf"
+        },
+        {
+          "produceId": "groundnut-oil",
+          "name": "Groundnut Oil"
+        },
+        {
+          "produceId": "wheat",
+          "name": "Wheat"
+        },
+        {
+          "produceId": "amaranth-tete",
+          "name": "Amaranth (Tete)"
+        },
+        {
+          "produceId": "irish-potato",
+          "name": "Irish Potatoes"
+        }
+      ]
+    },
+    "2": {
+      "month": "February",
+      "peak": [
+        {
+          "produceId": "tomato",
+          "name": "Tomatoes"
+        },
+        {
+          "produceId": "onion",
+          "name": "Onions"
+        },
+        {
+          "produceId": "palm-oil",
+          "name": "Palm Oil"
+        },
+        {
+          "produceId": "ginger",
+          "name": "Ginger"
+        },
+        {
+          "produceId": "turmeric",
+          "name": "Turmeric"
+        },
+        {
+          "produceId": "carrot",
+          "name": "Carrots"
+        }
+      ],
+      "inSeason": [
+        {
+          "produceId": "yam",
+          "name": "Yam"
+        },
+        {
+          "produceId": "cowpea-beans",
+          "name": "Beans (Cowpea)"
+        },
+        {
+          "produceId": "rice",
+          "name": "Rice"
+        },
+        {
+          "produceId": "cassava",
+          "name": "Cassava"
+        },
+        {
+          "produceId": "garri",
+          "name": "Garri"
+        },
+        {
+          "produceId": "fresh-fish",
+          "name": "Fresh Fish"
+        },
+        {
+          "produceId": "smoked-fish",
+          "name": "Smoked / Dried Fish"
+        },
+        {
+          "produceId": "ugu-pumpkin-leaf",
+          "name": "Ugu (Pumpkin Leaf)"
+        },
+        {
+          "produceId": "crayfish",
+          "name": "Crayfish"
+        },
+        {
+          "produceId": "wheat",
+          "name": "Wheat"
+        },
+        {
+          "produceId": "cabbage",
+          "name": "Cabbage"
+        }
+      ],
+      "offSeason": [
+        {
+          "produceId": "chilli-pepper",
+          "name": "Pepper (Chilli / Tatase)"
+        },
+        {
+          "produceId": "plantain",
+          "name": "Plantain"
+        },
+        {
+          "produceId": "millet",
+          "name": "Millet"
+        },
+        {
+          "produceId": "maize",
+          "name": "Maize"
+        },
+        {
+          "produceId": "sorghum",
+          "name": "Sorghum (Guinea Corn)"
+        },
+        {
+          "produceId": "groundnut",
+          "name": "Groundnuts"
+        },
+        {
+          "produceId": "banana",
+          "name": "Banana"
+        },
+        {
+          "produceId": "sweet-potato",
+          "name": "Sweet Potatoes"
+        },
+        {
+          "produceId": "okra",
+          "name": "Okra"
+        },
+        {
+          "produceId": "waterleaf",
+          "name": "Waterleaf"
+        },
+        {
+          "produceId": "soybeans",
+          "name": "Soybeans"
+        },
+        {
+          "produceId": "bitter-leaf",
+          "name": "Bitter Leaf"
+        },
+        {
+          "produceId": "groundnut-oil",
+          "name": "Groundnut Oil"
+        },
+        {
+          "produceId": "sesame-beniseed",
+          "name": "Sesame Seed"
+        },
+        {
+          "produceId": "amaranth-tete",
+          "name": "Amaranth (Tete)"
+        },
+        {
+          "produceId": "irish-potato",
+          "name": "Irish Potatoes"
+        }
+      ]
+    },
+    "3": {
+      "month": "March",
+      "peak": [
+        {
+          "produceId": "tomato",
+          "name": "Tomatoes"
+        },
+        {
+          "produceId": "onion",
+          "name": "Onions"
+        },
+        {
+          "produceId": "fresh-fish",
+          "name": "Fresh Fish"
+        },
+        {
+          "produceId": "smoked-fish",
+          "name": "Smoked / Dried Fish"
+        },
+        {
+          "produceId": "ugu-pumpkin-leaf",
+          "name": "Ugu (Pumpkin Leaf)"
+        },
+        {
+          "produceId": "crayfish",
+          "name": "Crayfish"
+        },
+        {
+          "produceId": "palm-oil",
+          "name": "Palm Oil"
+        },
+        {
+          "produceId": "wheat",
+          "name": "Wheat"
+        }
+      ],
+      "inSeason": [
+        {
+          "produceId": "yam",
+          "name": "Yam"
+        },
+        {
+          "produceId": "cowpea-beans",
+          "name": "Beans (Cowpea)"
+        },
+        {
+          "produceId": "garri",
+          "name": "Garri"
+        },
+        {
+          "produceId": "waterleaf",
+          "name": "Waterleaf"
+        },
+        {
+          "produceId": "bitter-leaf",
+          "name": "Bitter Leaf"
+        },
+        {
+          "produceId": "amaranth-tete",
+          "name": "Amaranth (Tete)"
+        },
+        {
+          "produceId": "ginger",
+          "name": "Ginger"
+        },
+        {
+          "produceId": "turmeric",
+          "name": "Turmeric"
+        },
+        {
+          "produceId": "carrot",
+          "name": "Carrots"
+        },
+        {
+          "produceId": "cabbage",
+          "name": "Cabbage"
+        }
+      ],
+      "offSeason": [
+        {
+          "produceId": "chilli-pepper",
+          "name": "Pepper (Chilli / Tatase)"
+        },
+        {
+          "produceId": "rice",
+          "name": "Rice"
+        },
+        {
+          "produceId": "cassava",
+          "name": "Cassava"
+        },
+        {
+          "produceId": "plantain",
+          "name": "Plantain"
+        },
+        {
+          "produceId": "millet",
+          "name": "Millet"
+        },
+        {
+          "produceId": "maize",
+          "name": "Maize"
+        },
+        {
+          "produceId": "sorghum",
+          "name": "Sorghum (Guinea Corn)"
+        },
+        {
+          "produceId": "groundnut",
+          "name": "Groundnuts"
+        },
+        {
+          "produceId": "banana",
+          "name": "Banana"
+        },
+        {
+          "produceId": "sweet-potato",
+          "name": "Sweet Potatoes"
+        },
+        {
+          "produceId": "okra",
+          "name": "Okra"
+        },
+        {
+          "produceId": "soybeans",
+          "name": "Soybeans"
+        },
+        {
+          "produceId": "groundnut-oil",
+          "name": "Groundnut Oil"
+        },
+        {
+          "produceId": "sesame-beniseed",
+          "name": "Sesame Seed"
+        },
+        {
+          "produceId": "irish-potato",
+          "name": "Irish Potatoes"
+        }
+      ]
+    },
+    "4": {
+      "month": "April",
+      "peak": [
+        {
+          "produceId": "onion",
+          "name": "Onions"
+        },
+        {
+          "produceId": "fresh-fish",
+          "name": "Fresh Fish"
+        },
+        {
+          "produceId": "smoked-fish",
+          "name": "Smoked / Dried Fish"
+        },
+        {
+          "produceId": "ugu-pumpkin-leaf",
+          "name": "Ugu (Pumpkin Leaf)"
+        },
+        {
+          "produceId": "waterleaf",
+          "name": "Waterleaf"
+        },
+        {
+          "produceId": "crayfish",
+          "name": "Crayfish"
+        },
+        {
+          "produceId": "bitter-leaf",
+          "name": "Bitter Leaf"
+        },
+        {
+          "produceId": "wheat",
+          "name": "Wheat"
+        },
+        {
+          "produceId": "amaranth-tete",
+          "name": "Amaranth (Tete)"
+        }
+      ],
+      "inSeason": [
+        {
+          "produceId": "tomato",
+          "name": "Tomatoes"
+        },
+        {
+          "produceId": "garri",
+          "name": "Garri"
+        },
+        {
+          "produceId": "palm-oil",
+          "name": "Palm Oil"
+        },
+        {
+          "produceId": "irish-potato",
+          "name": "Irish Potatoes"
+        }
+      ],
+      "offSeason": [
+        {
+          "produceId": "chilli-pepper",
+          "name": "Pepper (Chilli / Tatase)"
+        },
+        {
+          "produceId": "yam",
+          "name": "Yam"
+        },
+        {
+          "produceId": "cowpea-beans",
+          "name": "Beans (Cowpea)"
+        },
+        {
+          "produceId": "rice",
+          "name": "Rice"
+        },
+        {
+          "produceId": "cassava",
+          "name": "Cassava"
+        },
+        {
+          "produceId": "plantain",
+          "name": "Plantain"
+        },
+        {
+          "produceId": "millet",
+          "name": "Millet"
+        },
+        {
+          "produceId": "maize",
+          "name": "Maize"
+        },
+        {
+          "produceId": "sorghum",
+          "name": "Sorghum (Guinea Corn)"
+        },
+        {
+          "produceId": "groundnut",
+          "name": "Groundnuts"
+        },
+        {
+          "produceId": "banana",
+          "name": "Banana"
+        },
+        {
+          "produceId": "sweet-potato",
+          "name": "Sweet Potatoes"
+        },
+        {
+          "produceId": "okra",
+          "name": "Okra"
+        },
+        {
+          "produceId": "soybeans",
+          "name": "Soybeans"
+        },
+        {
+          "produceId": "groundnut-oil",
+          "name": "Groundnut Oil"
+        },
+        {
+          "produceId": "sesame-beniseed",
+          "name": "Sesame Seed"
+        },
+        {
+          "produceId": "ginger",
+          "name": "Ginger"
+        },
+        {
+          "produceId": "turmeric",
+          "name": "Turmeric"
+        },
+        {
+          "produceId": "carrot",
+          "name": "Carrots"
+        },
+        {
+          "produceId": "cabbage",
+          "name": "Cabbage"
+        }
+      ]
+    },
+    "5": {
+      "month": "May",
+      "peak": [
+        {
+          "produceId": "fresh-fish",
+          "name": "Fresh Fish"
+        },
+        {
+          "produceId": "smoked-fish",
+          "name": "Smoked / Dried Fish"
+        },
+        {
+          "produceId": "ugu-pumpkin-leaf",
+          "name": "Ugu (Pumpkin Leaf)"
+        },
+        {
+          "produceId": "waterleaf",
+          "name": "Waterleaf"
+        },
+        {
+          "produceId": "crayfish",
+          "name": "Crayfish"
+        },
+        {
+          "produceId": "bitter-leaf",
+          "name": "Bitter Leaf"
+        },
+        {
+          "produceId": "amaranth-tete",
+          "name": "Amaranth (Tete)"
+        },
+        {
+          "produceId": "irish-potato",
+          "name": "Irish Potatoes"
+        }
+      ],
+      "inSeason": [
+        {
+          "produceId": "tomato",
+          "name": "Tomatoes"
+        },
+        {
+          "produceId": "onion",
+          "name": "Onions"
+        },
+        {
+          "produceId": "palm-oil",
+          "name": "Palm Oil"
+        },
+        {
+          "produceId": "wheat",
+          "name": "Wheat"
+        }
+      ],
+      "offSeason": [
+        {
+          "produceId": "chilli-pepper",
+          "name": "Pepper (Chilli / Tatase)"
+        },
+        {
+          "produceId": "yam",
+          "name": "Yam"
+        },
+        {
+          "produceId": "cowpea-beans",
+          "name": "Beans (Cowpea)"
+        },
+        {
+          "produceId": "rice",
+          "name": "Rice"
+        },
+        {
+          "produceId": "cassava",
+          "name": "Cassava"
+        },
+        {
+          "produceId": "plantain",
+          "name": "Plantain"
+        },
+        {
+          "produceId": "garri",
+          "name": "Garri"
+        },
+        {
+          "produceId": "millet",
+          "name": "Millet"
+        },
+        {
+          "produceId": "maize",
+          "name": "Maize"
+        },
+        {
+          "produceId": "sorghum",
+          "name": "Sorghum (Guinea Corn)"
+        },
+        {
+          "produceId": "groundnut",
+          "name": "Groundnuts"
+        },
+        {
+          "produceId": "banana",
+          "name": "Banana"
+        },
+        {
+          "produceId": "sweet-potato",
+          "name": "Sweet Potatoes"
+        },
+        {
+          "produceId": "okra",
+          "name": "Okra"
+        },
+        {
+          "produceId": "soybeans",
+          "name": "Soybeans"
+        },
+        {
+          "produceId": "groundnut-oil",
+          "name": "Groundnut Oil"
+        },
+        {
+          "produceId": "sesame-beniseed",
+          "name": "Sesame Seed"
+        },
+        {
+          "produceId": "ginger",
+          "name": "Ginger"
+        },
+        {
+          "produceId": "turmeric",
+          "name": "Turmeric"
+        },
+        {
+          "produceId": "carrot",
+          "name": "Carrots"
+        },
+        {
+          "produceId": "cabbage",
+          "name": "Cabbage"
+        }
+      ]
+    },
+    "6": {
+      "month": "June",
+      "peak": [
+        {
+          "produceId": "ugu-pumpkin-leaf",
+          "name": "Ugu (Pumpkin Leaf)"
+        },
+        {
+          "produceId": "waterleaf",
+          "name": "Waterleaf"
+        },
+        {
+          "produceId": "bitter-leaf",
+          "name": "Bitter Leaf"
+        },
+        {
+          "produceId": "amaranth-tete",
+          "name": "Amaranth (Tete)"
+        },
+        {
+          "produceId": "irish-potato",
+          "name": "Irish Potatoes"
+        }
+      ],
+      "inSeason": [
+        {
+          "produceId": "fresh-fish",
+          "name": "Fresh Fish"
+        },
+        {
+          "produceId": "smoked-fish",
+          "name": "Smoked / Dried Fish"
+        },
+        {
+          "produceId": "okra",
+          "name": "Okra"
+        },
+        {
+          "produceId": "crayfish",
+          "name": "Crayfish"
+        }
+      ],
+      "offSeason": [
+        {
+          "produceId": "tomato",
+          "name": "Tomatoes"
+        },
+        {
+          "produceId": "chilli-pepper",
+          "name": "Pepper (Chilli / Tatase)"
+        },
+        {
+          "produceId": "yam",
+          "name": "Yam"
+        },
+        {
+          "produceId": "cowpea-beans",
+          "name": "Beans (Cowpea)"
+        },
+        {
+          "produceId": "rice",
+          "name": "Rice"
+        },
+        {
+          "produceId": "onion",
+          "name": "Onions"
+        },
+        {
+          "produceId": "cassava",
+          "name": "Cassava"
+        },
+        {
+          "produceId": "plantain",
+          "name": "Plantain"
+        },
+        {
+          "produceId": "garri",
+          "name": "Garri"
+        },
+        {
+          "produceId": "millet",
+          "name": "Millet"
+        },
+        {
+          "produceId": "maize",
+          "name": "Maize"
+        },
+        {
+          "produceId": "sorghum",
+          "name": "Sorghum (Guinea Corn)"
+        },
+        {
+          "produceId": "groundnut",
+          "name": "Groundnuts"
+        },
+        {
+          "produceId": "banana",
+          "name": "Banana"
+        },
+        {
+          "produceId": "sweet-potato",
+          "name": "Sweet Potatoes"
+        },
+        {
+          "produceId": "soybeans",
+          "name": "Soybeans"
+        },
+        {
+          "produceId": "palm-oil",
+          "name": "Palm Oil"
+        },
+        {
+          "produceId": "groundnut-oil",
+          "name": "Groundnut Oil"
+        },
+        {
+          "produceId": "wheat",
+          "name": "Wheat"
+        },
+        {
+          "produceId": "sesame-beniseed",
+          "name": "Sesame Seed"
+        },
+        {
+          "produceId": "ginger",
+          "name": "Ginger"
+        },
+        {
+          "produceId": "turmeric",
+          "name": "Turmeric"
+        },
+        {
+          "produceId": "carrot",
+          "name": "Carrots"
+        },
+        {
+          "produceId": "cabbage",
+          "name": "Cabbage"
+        }
+      ]
+    },
+    "7": {
+      "month": "July",
+      "peak": [
+        {
+          "produceId": "okra",
+          "name": "Okra"
+        },
+        {
+          "produceId": "waterleaf",
+          "name": "Waterleaf"
+        },
+        {
+          "produceId": "amaranth-tete",
+          "name": "Amaranth (Tete)"
+        },
+        {
+          "produceId": "irish-potato",
+          "name": "Irish Potatoes"
+        }
+      ],
+      "inSeason": [
+        {
+          "produceId": "chilli-pepper",
+          "name": "Pepper (Chilli / Tatase)"
+        },
+        {
+          "produceId": "plantain",
+          "name": "Plantain"
+        },
+        {
+          "produceId": "maize",
+          "name": "Maize"
+        },
+        {
+          "produceId": "fresh-fish",
+          "name": "Fresh Fish"
+        },
+        {
+          "produceId": "banana",
+          "name": "Banana"
+        },
+        {
+          "produceId": "smoked-fish",
+          "name": "Smoked / Dried Fish"
+        },
+        {
+          "produceId": "ugu-pumpkin-leaf",
+          "name": "Ugu (Pumpkin Leaf)"
+        },
+        {
+          "produceId": "bitter-leaf",
+          "name": "Bitter Leaf"
+        }
+      ],
+      "offSeason": [
+        {
+          "produceId": "tomato",
+          "name": "Tomatoes"
+        },
+        {
+          "produceId": "yam",
+          "name": "Yam"
+        },
+        {
+          "produceId": "cowpea-beans",
+          "name": "Beans (Cowpea)"
+        },
+        {
+          "produceId": "rice",
+          "name": "Rice"
+        },
+        {
+          "produceId": "onion",
+          "name": "Onions"
+        },
+        {
+          "produceId": "cassava",
+          "name": "Cassava"
+        },
+        {
+          "produceId": "garri",
+          "name": "Garri"
+        },
+        {
+          "produceId": "millet",
+          "name": "Millet"
+        },
+        {
+          "produceId": "sorghum",
+          "name": "Sorghum (Guinea Corn)"
+        },
+        {
+          "produceId": "groundnut",
+          "name": "Groundnuts"
+        },
+        {
+          "produceId": "sweet-potato",
+          "name": "Sweet Potatoes"
+        },
+        {
+          "produceId": "soybeans",
+          "name": "Soybeans"
+        },
+        {
+          "produceId": "crayfish",
+          "name": "Crayfish"
+        },
+        {
+          "produceId": "palm-oil",
+          "name": "Palm Oil"
+        },
+        {
+          "produceId": "groundnut-oil",
+          "name": "Groundnut Oil"
+        },
+        {
+          "produceId": "wheat",
+          "name": "Wheat"
+        },
+        {
+          "produceId": "sesame-beniseed",
+          "name": "Sesame Seed"
+        },
+        {
+          "produceId": "ginger",
+          "name": "Ginger"
+        },
+        {
+          "produceId": "turmeric",
+          "name": "Turmeric"
+        },
+        {
+          "produceId": "carrot",
+          "name": "Carrots"
+        },
+        {
+          "produceId": "cabbage",
+          "name": "Cabbage"
+        }
+      ]
+    },
+    "8": {
+      "month": "August",
+      "peak": [
+        {
+          "produceId": "chilli-pepper",
+          "name": "Pepper (Chilli / Tatase)"
+        },
+        {
+          "produceId": "plantain",
+          "name": "Plantain"
+        },
+        {
+          "produceId": "maize",
+          "name": "Maize"
+        },
+        {
+          "produceId": "banana",
+          "name": "Banana"
+        },
+        {
+          "produceId": "okra",
+          "name": "Okra"
+        }
+      ],
+      "inSeason": [
+        {
+          "produceId": "groundnut",
+          "name": "Groundnuts"
+        },
+        {
+          "produceId": "ugu-pumpkin-leaf",
+          "name": "Ugu (Pumpkin Leaf)"
+        },
+        {
+          "produceId": "waterleaf",
+          "name": "Waterleaf"
+        },
+        {
+          "produceId": "bitter-leaf",
+          "name": "Bitter Leaf"
+        },
+        {
+          "produceId": "groundnut-oil",
+          "name": "Groundnut Oil"
+        },
+        {
+          "produceId": "amaranth-tete",
+          "name": "Amaranth (Tete)"
+        },
+        {
+          "produceId": "irish-potato",
+          "name": "Irish Potatoes"
+        }
+      ],
+      "offSeason": [
+        {
+          "produceId": "tomato",
+          "name": "Tomatoes"
+        },
+        {
+          "produceId": "yam",
+          "name": "Yam"
+        },
+        {
+          "produceId": "cowpea-beans",
+          "name": "Beans (Cowpea)"
+        },
+        {
+          "produceId": "rice",
+          "name": "Rice"
+        },
+        {
+          "produceId": "onion",
+          "name": "Onions"
+        },
+        {
+          "produceId": "cassava",
+          "name": "Cassava"
+        },
+        {
+          "produceId": "garri",
+          "name": "Garri"
+        },
+        {
+          "produceId": "millet",
+          "name": "Millet"
+        },
+        {
+          "produceId": "sorghum",
+          "name": "Sorghum (Guinea Corn)"
+        },
+        {
+          "produceId": "fresh-fish",
+          "name": "Fresh Fish"
+        },
+        {
+          "produceId": "smoked-fish",
+          "name": "Smoked / Dried Fish"
+        },
+        {
+          "produceId": "sweet-potato",
+          "name": "Sweet Potatoes"
+        },
+        {
+          "produceId": "soybeans",
+          "name": "Soybeans"
+        },
+        {
+          "produceId": "crayfish",
+          "name": "Crayfish"
+        },
+        {
+          "produceId": "palm-oil",
+          "name": "Palm Oil"
+        },
+        {
+          "produceId": "wheat",
+          "name": "Wheat"
+        },
+        {
+          "produceId": "sesame-beniseed",
+          "name": "Sesame Seed"
+        },
+        {
+          "produceId": "ginger",
+          "name": "Ginger"
+        },
+        {
+          "produceId": "turmeric",
+          "name": "Turmeric"
+        },
+        {
+          "produceId": "carrot",
+          "name": "Carrots"
+        },
+        {
+          "produceId": "cabbage",
+          "name": "Cabbage"
+        }
+      ]
+    },
+    "9": {
+      "month": "September",
+      "peak": [
+        {
+          "produceId": "chilli-pepper",
+          "name": "Pepper (Chilli / Tatase)"
+        },
+        {
+          "produceId": "plantain",
+          "name": "Plantain"
+        },
+        {
+          "produceId": "maize",
+          "name": "Maize"
+        },
+        {
+          "produceId": "groundnut",
+          "name": "Groundnuts"
+        },
+        {
+          "produceId": "banana",
+          "name": "Banana"
+        },
+        {
+          "produceId": "okra",
+          "name": "Okra"
+        },
+        {
+          "produceId": "groundnut-oil",
+          "name": "Groundnut Oil"
+        }
+      ],
+      "inSeason": [
+        {
+          "produceId": "cassava",
+          "name": "Cassava"
+        },
+        {
+          "produceId": "millet",
+          "name": "Millet"
+        },
+        {
+          "produceId": "sorghum",
+          "name": "Sorghum (Guinea Corn)"
+        },
+        {
+          "produceId": "sweet-potato",
+          "name": "Sweet Potatoes"
+        },
+        {
+          "produceId": "soybeans",
+          "name": "Soybeans"
+        },
+        {
+          "produceId": "sesame-beniseed",
+          "name": "Sesame Seed"
+        },
+        {
+          "produceId": "irish-potato",
+          "name": "Irish Potatoes"
+        }
+      ],
+      "offSeason": [
+        {
+          "produceId": "tomato",
+          "name": "Tomatoes"
+        },
+        {
+          "produceId": "yam",
+          "name": "Yam"
+        },
+        {
+          "produceId": "cowpea-beans",
+          "name": "Beans (Cowpea)"
+        },
+        {
+          "produceId": "rice",
+          "name": "Rice"
+        },
+        {
+          "produceId": "onion",
+          "name": "Onions"
+        },
+        {
+          "produceId": "garri",
+          "name": "Garri"
+        },
+        {
+          "produceId": "fresh-fish",
+          "name": "Fresh Fish"
+        },
+        {
+          "produceId": "smoked-fish",
+          "name": "Smoked / Dried Fish"
+        },
+        {
+          "produceId": "ugu-pumpkin-leaf",
+          "name": "Ugu (Pumpkin Leaf)"
+        },
+        {
+          "produceId": "waterleaf",
+          "name": "Waterleaf"
+        },
+        {
+          "produceId": "crayfish",
+          "name": "Crayfish"
+        },
+        {
+          "produceId": "bitter-leaf",
+          "name": "Bitter Leaf"
+        },
+        {
+          "produceId": "palm-oil",
+          "name": "Palm Oil"
+        },
+        {
+          "produceId": "wheat",
+          "name": "Wheat"
+        },
+        {
+          "produceId": "amaranth-tete",
+          "name": "Amaranth (Tete)"
+        },
+        {
+          "produceId": "ginger",
+          "name": "Ginger"
+        },
+        {
+          "produceId": "turmeric",
+          "name": "Turmeric"
+        },
+        {
+          "produceId": "carrot",
+          "name": "Carrots"
+        },
+        {
+          "produceId": "cabbage",
+          "name": "Cabbage"
+        }
+      ]
+    },
+    "10": {
+      "month": "October",
+      "peak": [
+        {
+          "produceId": "chilli-pepper",
+          "name": "Pepper (Chilli / Tatase)"
+        },
+        {
+          "produceId": "cassava",
+          "name": "Cassava"
+        },
+        {
+          "produceId": "plantain",
+          "name": "Plantain"
+        },
+        {
+          "produceId": "millet",
+          "name": "Millet"
+        },
+        {
+          "produceId": "maize",
+          "name": "Maize"
+        },
+        {
+          "produceId": "sorghum",
+          "name": "Sorghum (Guinea Corn)"
+        },
+        {
+          "produceId": "groundnut",
+          "name": "Groundnuts"
+        },
+        {
+          "produceId": "banana",
+          "name": "Banana"
+        },
+        {
+          "produceId": "sweet-potato",
+          "name": "Sweet Potatoes"
+        },
+        {
+          "produceId": "soybeans",
+          "name": "Soybeans"
+        },
+        {
+          "produceId": "groundnut-oil",
+          "name": "Groundnut Oil"
+        },
+        {
+          "produceId": "sesame-beniseed",
+          "name": "Sesame Seed"
+        }
+      ],
+      "inSeason": [
+        {
+          "produceId": "yam",
+          "name": "Yam"
+        },
+        {
+          "produceId": "cowpea-beans",
+          "name": "Beans (Cowpea)"
+        },
+        {
+          "produceId": "rice",
+          "name": "Rice"
+        },
+        {
+          "produceId": "garri",
+          "name": "Garri"
+        },
+        {
+          "produceId": "okra",
+          "name": "Okra"
+        },
+        {
+          "produceId": "carrot",
+          "name": "Carrots"
+        },
+        {
+          "produceId": "cabbage",
+          "name": "Cabbage"
+        }
+      ],
+      "offSeason": [
+        {
+          "produceId": "tomato",
+          "name": "Tomatoes"
+        },
+        {
+          "produceId": "onion",
+          "name": "Onions"
+        },
+        {
+          "produceId": "fresh-fish",
+          "name": "Fresh Fish"
+        },
+        {
+          "produceId": "smoked-fish",
+          "name": "Smoked / Dried Fish"
+        },
+        {
+          "produceId": "ugu-pumpkin-leaf",
+          "name": "Ugu (Pumpkin Leaf)"
+        },
+        {
+          "produceId": "waterleaf",
+          "name": "Waterleaf"
+        },
+        {
+          "produceId": "crayfish",
+          "name": "Crayfish"
+        },
+        {
+          "produceId": "bitter-leaf",
+          "name": "Bitter Leaf"
+        },
+        {
+          "produceId": "palm-oil",
+          "name": "Palm Oil"
+        },
+        {
+          "produceId": "wheat",
+          "name": "Wheat"
+        },
+        {
+          "produceId": "amaranth-tete",
+          "name": "Amaranth (Tete)"
+        },
+        {
+          "produceId": "ginger",
+          "name": "Ginger"
+        },
+        {
+          "produceId": "turmeric",
+          "name": "Turmeric"
+        },
+        {
+          "produceId": "irish-potato",
+          "name": "Irish Potatoes"
+        }
+      ]
+    },
+    "11": {
+      "month": "November",
+      "peak": [
+        {
+          "produceId": "yam",
+          "name": "Yam"
+        },
+        {
+          "produceId": "cowpea-beans",
+          "name": "Beans (Cowpea)"
+        },
+        {
+          "produceId": "rice",
+          "name": "Rice"
+        },
+        {
+          "produceId": "cassava",
+          "name": "Cassava"
+        },
+        {
+          "produceId": "garri",
+          "name": "Garri"
+        },
+        {
+          "produceId": "millet",
+          "name": "Millet"
+        },
+        {
+          "produceId": "sorghum",
+          "name": "Sorghum (Guinea Corn)"
+        },
+        {
+          "produceId": "groundnut",
+          "name": "Groundnuts"
+        },
+        {
+          "produceId": "sweet-potato",
+          "name": "Sweet Potatoes"
+        },
+        {
+          "produceId": "soybeans",
+          "name": "Soybeans"
+        },
+        {
+          "produceId": "groundnut-oil",
+          "name": "Groundnut Oil"
+        },
+        {
+          "produceId": "sesame-beniseed",
+          "name": "Sesame Seed"
+        },
+        {
+          "produceId": "carrot",
+          "name": "Carrots"
+        },
+        {
+          "produceId": "cabbage",
+          "name": "Cabbage"
+        }
+      ],
+      "inSeason": [
+        {
+          "produceId": "tomato",
+          "name": "Tomatoes"
+        },
+        {
+          "produceId": "chilli-pepper",
+          "name": "Pepper (Chilli / Tatase)"
+        },
+        {
+          "produceId": "onion",
+          "name": "Onions"
+        },
+        {
+          "produceId": "plantain",
+          "name": "Plantain"
+        },
+        {
+          "produceId": "maize",
+          "name": "Maize"
+        },
+        {
+          "produceId": "fresh-fish",
+          "name": "Fresh Fish"
+        },
+        {
+          "produceId": "banana",
+          "name": "Banana"
+        },
+        {
+          "produceId": "smoked-fish",
+          "name": "Smoked / Dried Fish"
+        },
+        {
+          "produceId": "okra",
+          "name": "Okra"
+        },
+        {
+          "produceId": "crayfish",
+          "name": "Crayfish"
+        },
+        {
+          "produceId": "ginger",
+          "name": "Ginger"
+        },
+        {
+          "produceId": "turmeric",
+          "name": "Turmeric"
+        }
+      ],
+      "offSeason": [
+        {
+          "produceId": "ugu-pumpkin-leaf",
+          "name": "Ugu (Pumpkin Leaf)"
+        },
+        {
+          "produceId": "waterleaf",
+          "name": "Waterleaf"
+        },
+        {
+          "produceId": "bitter-leaf",
+          "name": "Bitter Leaf"
+        },
+        {
+          "produceId": "palm-oil",
+          "name": "Palm Oil"
+        },
+        {
+          "produceId": "wheat",
+          "name": "Wheat"
+        },
+        {
+          "produceId": "amaranth-tete",
+          "name": "Amaranth (Tete)"
+        },
+        {
+          "produceId": "irish-potato",
+          "name": "Irish Potatoes"
+        }
+      ]
+    },
+    "12": {
+      "month": "December",
+      "peak": [
+        {
+          "produceId": "yam",
+          "name": "Yam"
+        },
+        {
+          "produceId": "cowpea-beans",
+          "name": "Beans (Cowpea)"
+        },
+        {
+          "produceId": "rice",
+          "name": "Rice"
+        },
+        {
+          "produceId": "cassava",
+          "name": "Cassava"
+        },
+        {
+          "produceId": "garri",
+          "name": "Garri"
+        },
+        {
+          "produceId": "sweet-potato",
+          "name": "Sweet Potatoes"
+        },
+        {
+          "produceId": "sesame-beniseed",
+          "name": "Sesame Seed"
+        },
+        {
+          "produceId": "ginger",
+          "name": "Ginger"
+        },
+        {
+          "produceId": "turmeric",
+          "name": "Turmeric"
+        },
+        {
+          "produceId": "carrot",
+          "name": "Carrots"
+        },
+        {
+          "produceId": "cabbage",
+          "name": "Cabbage"
+        }
+      ],
+      "inSeason": [
+        {
+          "produceId": "tomato",
+          "name": "Tomatoes"
+        },
+        {
+          "produceId": "chilli-pepper",
+          "name": "Pepper (Chilli / Tatase)"
+        },
+        {
+          "produceId": "onion",
+          "name": "Onions"
+        },
+        {
+          "produceId": "plantain",
+          "name": "Plantain"
+        },
+        {
+          "produceId": "millet",
+          "name": "Millet"
+        },
+        {
+          "produceId": "sorghum",
+          "name": "Sorghum (Guinea Corn)"
+        },
+        {
+          "produceId": "groundnut",
+          "name": "Groundnuts"
+        },
+        {
+          "produceId": "fresh-fish",
+          "name": "Fresh Fish"
+        },
+        {
+          "produceId": "banana",
+          "name": "Banana"
+        },
+        {
+          "produceId": "smoked-fish",
+          "name": "Smoked / Dried Fish"
+        },
+        {
+          "produceId": "soybeans",
+          "name": "Soybeans"
+        },
+        {
+          "produceId": "crayfish",
+          "name": "Crayfish"
+        },
+        {
+          "produceId": "palm-oil",
+          "name": "Palm Oil"
+        },
+        {
+          "produceId": "groundnut-oil",
+          "name": "Groundnut Oil"
+        }
+      ],
+      "offSeason": [
+        {
+          "produceId": "maize",
+          "name": "Maize"
+        },
+        {
+          "produceId": "okra",
+          "name": "Okra"
+        },
+        {
+          "produceId": "ugu-pumpkin-leaf",
+          "name": "Ugu (Pumpkin Leaf)"
+        },
+        {
+          "produceId": "waterleaf",
+          "name": "Waterleaf"
+        },
+        {
+          "produceId": "bitter-leaf",
+          "name": "Bitter Leaf"
+        },
+        {
+          "produceId": "wheat",
+          "name": "Wheat"
+        },
+        {
+          "produceId": "amaranth-tete",
+          "name": "Amaranth (Tete)"
+        },
+        {
+          "produceId": "irish-potato",
+          "name": "Irish Potatoes"
+        }
+      ]
+    }
+  }
+}
