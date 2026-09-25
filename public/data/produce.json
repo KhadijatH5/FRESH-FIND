@@ -1181,7 +1181,9 @@
     },
     {
       "produceId": "banana",
+      "id": "banana",
       "name": "Banana",
+      "botanicalName": "Musa acuminata",
       "localName": "Ayaba",
       "category": "Fruits",
       "description": "Sweet eating banana sold by the bunch alongside plantain in southern markets.",
@@ -1192,6 +1194,11 @@
         "max": 12000,
         "display": "₦2,500 – ₦12,000 per bunch"
       },
+      "priceRange": "₦2,500 – ₦12,000",
+      "unit": "per bunch",
+      "nutrition": "Rich in potassium, vitamin B6 and fiber. Good for heart health and digestion.",
+      "imageUrl": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
       "marketCount": 4,
       "marketIds": [
         "NG-AK-001",
@@ -1229,7 +1236,9 @@
     },
     {
       "produceId": "smoked-fish",
+      "id": "smoked-fish",
       "name": "Smoked / Dried Fish",
+      "botanicalName": "Various species",
       "localName": "Kifi mai hayaki",
       "category": "Fish & Seafood",
       "description": "Kiln-smoked and dried fish sold by the kilogram — the preserved protein that travels to inland markets.",
@@ -1240,6 +1249,11 @@
         "max": 12000,
         "display": "₦3,000 – ₦12,000 per kg"
       },
+      "priceRange": "₦3,000 – ₦12,000",
+      "unit": "per kg",
+      "nutrition": "High in protein and omega-3 fatty acids. Smoking process adds flavor and extends shelf life.",
+      "imageUrl": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=400&h=300&fit=crop",
+      "isPeakSeason": false,
       "marketCount": 3,
       "marketIds": [
         "NG-JI-002",
@@ -1276,7 +1290,9 @@
     },
     {
       "produceId": "sweet-potato",
+      "id": "sweet-potato",
       "name": "Sweet Potatoes",
+      "botanicalName": "Ipomoea batatas",
       "localName": "Dankali",
       "category": "Tubers & Roots",
       "description": "Orange and white-fleshed roots sold by the hundred, rich in vitamin A.",
@@ -1287,6 +1303,11 @@
         "max": 110000,
         "display": "₦30,000 – ₦110,000 per 100 tubers"
       },
+      "priceRange": "₦30,000 – ₦110,000",
+      "unit": "per 100 tubers",
+      "nutrition": "Exceptionally high in vitamin A (beta-carotene), fiber and antioxidants. Lower glycemic index than regular potatoes.",
+      "imageUrl": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
       "marketCount": 3,
       "marketIds": [
         "NG-LAG-001",
@@ -1323,7 +1344,9 @@
     },
     {
       "produceId": "okra",
+      "id": "okra",
       "name": "Okra",
+      "botanicalName": "Abelmoschus esculentus",
       "localName": "Ila",
       "category": "Vegetables",
       "description": "Tender pods sold by the basket, the thickening agent in Nigerian soups.",
@@ -1334,6 +1357,11 @@
         "max": 15000,
         "display": "₦3,000 – ₦15,000 per basket"
       },
+      "priceRange": "₦3,000 – ₦15,000",
+      "unit": "per basket",
+      "nutrition": "High in fiber, vitamin C and folate. Contains antioxidants and beneficial compounds for digestion.",
+      "imageUrl": "https://images.unsplash.com/photo-1595998706029-1e47e3c2ee49?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
       "marketCount": 2,
       "marketIds": [
         "NG-EDO-001",
@@ -1369,7 +1397,9 @@
     },
     {
       "produceId": "ugu-pumpkin-leaf",
+      "id": "ugu-pumpkin-leaf",
       "name": "Ugu (Pumpkin Leaf)",
+      "botanicalName": "Telfairia occidentalis",
       "localName": "Ugu",
       "category": "Leafy Vegetables",
       "description": "Fluted pumpkin leaf sold in bundles, the most used leafy vegetable in southern cooking.",
@@ -1380,6 +1410,11 @@
         "max": 3000,
         "display": "₦500 – ₦3,000 per bundle"
       },
+      "priceRange": "₦500 – ₦3,000",
+      "unit": "per bundle",
+      "nutrition": "Rich in iron, vitamins A and C, and antioxidants. Excellent for blood health and immunity.",
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
       "marketCount": 2,
       "marketIds": [
         "NG-KAD-002",
@@ -1415,7 +1450,9 @@
     },
     {
       "produceId": "waterleaf",
+      "id": "waterleaf",
       "name": "Waterleaf",
+      "botanicalName": "Talinum triangulare",
       "localName": "Gbure",
       "category": "Leafy Vegetables",
       "description": "Soft, watery leaf sold in bundles and cooked within a day or two of harvest.",
@@ -1426,6 +1463,11 @@
         "max": 2500,
         "display": "₦500 – ₦2,500 per bundle"
       },
+      "priceRange": "₦500 – ₦2,500",
+      "unit": "per bundle",
+      "nutrition": "Good source of vitamins A and C, iron and calcium. Highly perishable but nutritious.",
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
       "marketCount": 2,
       "marketIds": [
         "NG-KAD-002",
@@ -1461,7 +1503,9 @@
     },
     {
       "produceId": "soybeans",
+      "id": "soybeans",
       "name": "Soybeans",
+      "botanicalName": "Glycine max",
       "localName": "Soya",
       "category": "Grains & Pulses",
       "description": "Sold by the bag for oil, flour and livestock feed.",
@@ -1472,6 +1516,11 @@
         "max": 180000,
         "display": "₦70,000 – ₦180,000 per 100kg bag"
       },
+      "priceRange": "₦70,000 – ₦180,000",
+      "unit": "per 100kg bag",
+      "nutrition": "Complete plant protein, rich in isoflavones, B vitamins and minerals. Good for heart health.",
+      "imageUrl": "https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
       "marketCount": 2,
       "marketIds": [
         "NG-KAN-001",
@@ -1507,7 +1556,9 @@
     },
     {
       "produceId": "crayfish",
+      "id": "crayfish",
       "name": "Crayfish",
+      "botanicalName": "Various species",
       "localName": "Wuyah",
       "category": "Fish & Seafood",
       "description": "Dried and ground crayfish sold by the kilogram as a soup flavour base.",
@@ -1518,6 +1569,11 @@
         "max": 20000,
         "display": "₦6,000 – ₦20,000 per kg"
       },
+      "priceRange": "₦6,000 – ₦20,000",
+      "unit": "per kg",
+      "nutrition": "High in protein, B vitamins and minerals like calcium and phosphorus. Essential flavor in Nigerian cuisine.",
+      "imageUrl": "https://images.unsplash.com/photo-1534604973900-c43ab4c2e0ab?w=400&h=300&fit=crop",
+      "isPeakSeason": false,
       "marketCount": 1,
       "marketIds": [
         "NG-EDO-001"
@@ -1552,7 +1608,9 @@
     },
     {
       "produceId": "bitter-leaf",
+      "id": "bitter-leaf",
       "name": "Bitter Leaf",
+      "botanicalName": "Vernonia amygdalina",
       "localName": "Ewuro",
       "category": "Leafy Vegetables",
       "description": "Sold in bundles and washed to temper its bitterness; central to bitterleaf soup.",
@@ -1563,6 +1621,11 @@
         "max": 3000,
         "display": "₦500 – ₦3,000 per bundle"
       },
+      "priceRange": "₦500 – ₦3,000",
+      "unit": "per bundle",
+      "nutrition": "Rich in antioxidants, vitamins and minerals. Traditionally used for its medicinal properties.",
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
       "marketCount": 1,
       "marketIds": [
         "NG-KAD-002"
@@ -1597,7 +1660,9 @@
     },
     {
       "produceId": "palm-oil",
+      "id": "palm-oil",
       "name": "Palm Oil",
+      "botanicalName": "Elaeis guineensis",
       "localName": "Mmanu Nkwu",
       "category": "Nuts & Oils",
       "description": "Unrefined red palm oil sold by the keg, the base fat of southern cooking.",
@@ -1608,6 +1673,11 @@
         "max": 60000,
         "display": "₦25,000 – ₦60,000 per 25L keg"
       },
+      "priceRange": "₦25,000 – ₦60,000",
+      "unit": "per 25L keg",
+      "nutrition": "Rich in vitamin A (beta-carotene), vitamin E and healthy fats. Traditional cooking oil with high nutritional value.",
+      "imageUrl": "https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?w=400&h=300&fit=crop",
+      "isPeakSeason": false,
       "marketCount": 1,
       "marketIds": [
         "NG-KAD-002"
@@ -1642,7 +1712,9 @@
     },
     {
       "produceId": "groundnut-oil",
+      "id": "groundnut-oil",
       "name": "Groundnut Oil",
+      "botanicalName": "Arachis hypogaea (oil)",
       "localName": "Mai Gyada",
       "category": "Nuts & Oils",
       "description": "Clear, pale-gold cooking oil pressed from groundnut, sold by the keg.",
@@ -1653,6 +1725,11 @@
         "max": 80000,
         "display": "₦35,000 – ₦80,000 per 25L keg"
       },
+      "priceRange": "₦35,000 – ₦80,000",
+      "unit": "per 25L keg",
+      "nutrition": "High in monounsaturated fats, vitamin E and antioxidants. Good for heart health and cooking at high temperatures.",
+      "imageUrl": "https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
       "marketCount": 1,
       "marketIds": [
         "NG-KAD-002"
@@ -1687,7 +1764,9 @@
     },
     {
       "produceId": "wheat",
+      "id": "wheat",
       "name": "Wheat",
+      "botanicalName": "Triticum aestivum",
       "localName": "Alkama",
       "category": "Grains & Pulses",
       "description": "Sold by the bag for flour milling, grown under irrigation in the north.",
@@ -1698,6 +1777,11 @@
         "max": 160000,
         "display": "₦60,000 – ₦160,000 per 100kg bag"
       },
+      "priceRange": "₦60,000 – ₦160,000",
+      "unit": "per 100kg bag",
+      "nutrition": "High in carbohydrates, B vitamins and minerals. Source of gluten for bread making.",
+      "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
       "marketCount": 1,
       "marketIds": [
         "NG-KAN-001"
@@ -1732,7 +1816,9 @@
     },
     {
       "produceId": "sesame-beniseed",
+      "id": "sesame-beniseed",
       "name": "Sesame Seed",
+      "botanicalName": "Sesamum indicum",
       "localName": "Ridi",
       "category": "Nuts & Oils",
       "description": "Beniseed sold by the bag; a major export crop and oil source.",
@@ -1743,6 +1829,11 @@
         "max": 250000,
         "display": "₦90,000 – ₦250,000 per 100kg bag"
       },
+      "priceRange": "₦90,000 – ₦250,000",
+      "unit": "per 100kg bag",
+      "nutrition": "Rich in healthy fats, protein, calcium and antioxidants. Excellent for heart health and bone strength.",
+      "imageUrl": "https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
       "marketCount": 1,
       "marketIds": [
         "NG-NAS-001"
@@ -1777,7 +1868,9 @@
     },
     {
       "produceId": "amaranth-tete",
+      "id": "amaranth-tete",
       "name": "Amaranth (Tete)",
+      "botanicalName": "Amaranthus hybridus",
       "localName": "Tete",
       "category": "Leafy Vegetables",
       "description": "Tender amaranth leaf sold in bundles, a fast-growing green used in soups and as a weaning food.",
@@ -1788,6 +1881,11 @@
         "max": 2500,
         "display": "₦500 – ₦2,500 per bundle"
       },
+      "priceRange": "₦500 – ₦2,500",
+      "unit": "per bundle",
+      "nutrition": "High in iron, calcium, vitamins A and C. Excellent for blood health and children's nutrition.",
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
       "marketCount": 1,
       "marketIds": [
         "NG-OND-002"
@@ -1822,7 +1920,9 @@
     },
     {
       "produceId": "ginger",
+      "id": "ginger",
       "name": "Ginger",
+      "botanicalName": "Zingiber officinale",
       "localName": "Citta",
       "category": "Spices & Condiments",
       "description": "Fresh and dried rhizomes sold by the kilogram, grown mainly on the Kaduna and Plateau highlands.",
@@ -1833,6 +1933,11 @@
         "max": 9000,
         "display": "₦2,000 – ₦9,000 per kg"
       },
+      "priceRange": "₦2,000 – ₦9,000",
+      "unit": "per kg",
+      "nutrition": "Anti-inflammatory properties, aids digestion, contains gingerol. Good for nausea and immune health.",
+      "imageUrl": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
       "marketCount": 1,
       "marketIds": [
         "NG-OSU-002"
@@ -1867,7 +1972,9 @@
     },
     {
       "produceId": "turmeric",
+      "id": "turmeric",
       "name": "Turmeric",
+      "botanicalName": "Curcuma longa",
       "localName": "Zabibi",
       "category": "Spices & Condiments",
       "description": "Bright orange rhizomes and powder sold by the kilogram, a smaller highland crop beside ginger.",
@@ -1878,6 +1985,11 @@
         "max": 10000,
         "display": "₦2,500 – ₦10,000 per kg"
       },
+      "priceRange": "₦2,500 – ₦10,000",
+      "unit": "per kg",
+      "nutrition": "Contains curcumin, a powerful anti-inflammatory compound. Supports brain health and reduces inflammation.",
+      "imageUrl": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
       "marketCount": 1,
       "marketIds": [
         "NG-OSU-002"
@@ -1912,7 +2024,9 @@
     },
     {
       "produceId": "irish-potato",
+      "id": "irish-potato",
       "name": "Irish Potatoes",
+      "botanicalName": "Solanum tuberosum",
       "localName": "Dankalin Turawa",
       "category": "Tubers & Roots",
       "description": "Temperate potato sold by the bag and grown almost entirely on the Plateau and Mambilla highlands.",
@@ -1923,6 +2037,11 @@
         "max": 140000,
         "display": "₦45,000 – ₦140,000 per 100kg bag"
       },
+      "priceRange": "₦45,000 – ₦140,000",
+      "unit": "per 100kg bag",
+      "nutrition": "Good source of vitamin C, potassium and B6. Contains antioxidants and supports heart health.",
+      "imageUrl": "https://images.unsplash.com/photo-1518977676601-b53f8262942?w=400&h=300&fit=crop",
+      "isPeakSeason": false,
       "marketCount": 1,
       "marketIds": [
         "NG-PLA-001"
@@ -1957,7 +2076,9 @@
     },
     {
       "produceId": "carrot",
+      "id": "carrot",
       "name": "Carrots",
+      "botanicalName": "Daucus carota",
       "localName": "Karas",
       "category": "Vegetables",
       "description": "Sold by the bag from northern irrigation schemes, a cool-season crop.",
@@ -1968,6 +2089,11 @@
         "max": 25000,
         "display": "₦5,000 – ₦25,000 per bag"
       },
+      "priceRange": "₦5,000 – ₦25,000",
+      "unit": "per bag",
+      "nutrition": "Exceptionally high in beta-carotene (vitamin A), fiber and antioxidants. Good for eye health and immunity.",
+      "imageUrl": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=400&h=300&fit=crop",
+      "isPeakSeason": true,
       "marketCount": 1,
       "marketIds": [
         "NG-PLA-001"
